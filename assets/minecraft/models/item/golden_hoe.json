@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_hoe"
+    },
+	"overrides": [
+		
+		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:gui/info"},
+		{ "predicate": {"custom_model_data": 10101}, "model": "galaxy:gui/i_o"},
+		{ "predicate": {"custom_model_data": 10102}, "model": "galaxy:gui/stun"},
+		{ "predicate": {"custom_model_data": 10200}, "model": "galaxy:gui/icon-weapons"},
+		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/katana-display"},
+		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/katana-edge_scabbard"}
+		
+	]
+}

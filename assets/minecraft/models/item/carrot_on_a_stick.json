@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+	"overrides": [
+		
+		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:item/katana/katana-normal_display"},
+		{ "predicate": {"custom_model_data": 10101}, "model": "galaxy:item/katana/katana-broken_display"},
+		{ "predicate": {"custom_model_data": 10200}, "model": "galaxy:item/katana/katana-normal_off"},
+		{ "predicate": {"custom_model_data": 10201}, "model": "galaxy:item/katana/katana-normal_on"},
+		{ "predicate": {"custom_model_data": 10202}, "model": "galaxy:item/katana/katana-normal_scabbard"},
+		{ "predicate": {"custom_model_data": 10300}, "model": "galaxy:item/katana/katana-broken_off"},
+		{ "predicate": {"custom_model_data": 10301}, "model": "galaxy:item/katana/katana-broken_on"},
+		{ "predicate": {"custom_model_data": 10202}, "model": "galaxy:item/katana/katana-broken_scabbard"}
+		
+	]
+}

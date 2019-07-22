@@ -1,0 +1,62 @@
+{
+  "katana.store": {
+    "sounds": [
+	  {
+        "name": "galaxy:katana/store",
+	    "volume": 0.25,
+		"pitch": 1.7
+      },
+	  {
+        "name": "galaxy:katana/store",
+	    "volume": 0.25,
+		"pitch": 1.6
+      },
+	  {
+        "name": "galaxy:katana/store",
+	    "volume": 0.25,
+		"pitch": 1.5
+      }
+    ],
+    "subtitle": "galaxy:subtitles.item.katana.store"
+  },
+  "katana.draw": {
+    "sounds": [
+	  {
+        "name": "galaxy:katana/draw",
+	    "volume": 0.25,
+		"pitch": 1.6
+      },
+	  {
+        "name": "galaxy:katana/draw",
+	    "volume": 0.25,
+		"pitch": 1.5
+      },
+	  {
+        "name": "galaxy:katana/draw",
+	    "volume": 0.25,
+		"pitch": 1.4
+      }
+    ],
+    "subtitle": "galaxy:subtitles.item.katana.draw"
+  },
+  "katana.soop": {
+    "sounds": [
+	  {
+        "name": "galaxy:katana/soop",
+	    "volume": 0.5,
+		"pitch": 1.1
+      },
+	  {
+        "name": "galaxy:katana/soop",
+	    "volume": 0.5,
+		"pitch": 1.0
+      },
+	  {
+        "name": "galaxy:katana/soop",
+	    "volume": 0.5,
+		"pitch": 0.9
+      }
+    ],
+    "subtitle": "galaxy:subtitles.item.katana.soop"
+  }
+}

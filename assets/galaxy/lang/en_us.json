@@ -1,0 +1,43 @@
+{
+"item.galaxy.steel_ingot": "Steel Ingot",
+
+"item.galaxy.scabbard.name": "Scabbard",
+
+"item.galaxy.katana.name": "Katana",
+"item.galaxy.katana.lore": " ",
+"item.galaxy.nazo.name": "Technoly -Nazo-",
+"item.galaxy.nazo.lore": " ",
+"item.slashedge.hikana.name": "Phantom maze -Hinokage-",
+"item.slashedge.hikana.lore": " ",
+"item.slashedge.denkomaru.name": "Denkomaru",
+"item.slashedge.denkomaru.lore": " ",
+
+"tooltip.enchStatus.sealed": "sealed",
+"tooltip.enchStatus.enchanted": "enchanted",
+"tooltip.enchStatus.bewitched": "bewitched",
+
+"tooltip.blank": "",
+
+"status_effect.stun": "Stun",
+
+"action.swap": "Swap",
+"action.swap.draw": "Draw",
+"action.swap.store": "Store",
+"action.stun": "Stun",
+
+"subtitles.item.katana.draw": "Katana drawing",
+"subtitles.item.katana.store": "Katana storing",
+
+"advancements.weaponry.root.title": "Galaxy: Weaponry",
+"advancements.weaponry.root.description": "Advanced weapons",
+"advancements.weaponry.katana_obtain.title": "Katanas!",
+"advancements.weaponry.katana_obtain.description": "Acquire a katana",
+"advancements.weaponry.katana_obtain_katana.title": "Katana",
+"advancements.weaponry.katana_obtain_katana.description": "§7Common, but exquisite",
+"advancements.weaponry.katana_actions.title": "Actions   ",
+"advancements.weaponry.katana_actions.description": "§7Put katana in your off-hand",
+"advancements.weaponry.katana_act_swap.title": "Draw/Store",
+"advancements.weaponry.katana_act_swap.description": "§aSneak + Use    §7Draw or store katana from scabbard",
+"advancements.weaponry.katana_act_stun.title": "Stun            ",
+"advancements.weaponry.katana_act_stun.description": "§awhen drawed + Use §7Stun targets in front of you"
+}

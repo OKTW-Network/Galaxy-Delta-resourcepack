@@ -1,0 +1,43 @@
+{
+"item.galaxy.steel_ingot": "鋼錠",
+
+"item.galaxy.scabbard.name": "鞘",
+
+"item.galaxy.katana.name": "鋼刃",
+"item.galaxy.katana.lore": " ",
+"item.galaxy.nazo.name": "科技不朽 ｢鈉佐｣",
+"item.galaxy.nazo.lore": " ",
+"item.slashedge.hikana.name": "幻漠 「日之影」",
+"item.slashedge.hikana.lore": " ",
+"item.slashedge.denkomaru.name": "名刀 「電光丸」",
+"item.slashedge.denkomaru.lore": " ",
+
+"tooltip.enchStatus.sealed": "封",
+"tooltip.enchStatus.enchanted": "印",
+"tooltip.enchStatus.bewitched": "妖",
+
+"tooltip.blank": "",
+
+"status_effect.stun": "暈眩",
+
+"action.swap": "狀態切換",
+"action.swap.draw": "拔刀",
+"action.swap.store": "收刀",
+"action.stun": "擊暈",
+
+"subtitles.item.katana.draw": "武士刀出鞘",
+"subtitles.item.katana.store": "武士刀入鞘",
+
+"advancements.weaponry.root.title": "Galaxy: 武器",
+"advancements.weaponry.root.description": "更多武器",
+"advancements.weaponry.katana_obtain.title": "武士刀!",
+"advancements.weaponry.katana_obtain.description": "獲得一把武士刀",
+"advancements.weaponry.katana_obtain_katana.title": "鋼刃",
+"advancements.weaponry.katana_obtain_katana.description": "§7普通，但精緻",
+"advancements.weaponry.katana_actions.title": "動作組",
+"advancements.weaponry.katana_actions.description": "§7將武士刀置於非慣用手",
+"advancements.weaponry.katana_act_swap.title": "拔出/收回   ",
+"advancements.weaponry.katana_act_swap.description": "§a蹲下 + 使用鍵 §7將刀從鞘拔出或收回",
+"advancements.weaponry.katana_act_stun.title": "擊暈      ",
+"advancements.weaponry.katana_act_stun.description": "§a拔刀時 + 使用鍵 §7使前方目標暈眩"
+}
