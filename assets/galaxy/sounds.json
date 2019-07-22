@@ -17,7 +17,7 @@
 		"pitch": 1.5
       }
     ],
-    "subtitle": "galaxy:subtitles.item.katana.store"
+    "subtitle": "subtitles.item.katana.store"
   },
   "katana.draw": {
     "sounds": [
@@ -37,7 +37,7 @@
 		"pitch": 1.4
       }
     ],
-    "subtitle": "galaxy:subtitles.item.katana.draw"
+    "subtitle": "subtitles.item.katana.draw"
   },
   "katana.soop": {
     "sounds": [
@@ -57,6 +57,6 @@
 		"pitch": 0.9
       }
     ],
-    "subtitle": "galaxy:subtitles.item.katana.soop"
+    "subtitle": "subtitles.item.katana.soop"
   }
 }
