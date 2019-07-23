@@ -24,6 +24,7 @@
 "action.swap.draw": "Draw",
 "action.swap.store": "Store",
 "action.stun": "Stun",
+"action.flash": "Flash",
 
 "subtitles.item.katana.draw": "Katana drawing",
 "subtitles.item.katana.store": "Katana storing",
