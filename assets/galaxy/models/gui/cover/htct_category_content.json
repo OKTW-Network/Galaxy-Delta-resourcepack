@@ -1,0 +1,6 @@
+{
+    "parent": "galaxy:gui/cover/_template-3x1",
+    "textures": {
+        "cover": "galaxy:gui/cover_htct_category_content"
+    }
+}

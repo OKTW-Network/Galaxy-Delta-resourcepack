@@ -18,6 +18,19 @@
 
 "tooltip.blank": "",
 
+"block.galaxy.hi_tech_crafting_table": "高科技工作台",
+
+"gui.blank": "",
+"gui.previous_page": "上一頁",
+"gui.next_page": "下一頁",
+"gui.htct.all": "全部",
+"gui.htct.material": "材料",
+"gui.htct.machine": "機器",
+"gui.htct.functional_block": "功能方塊",
+"gui.htct.weapon": "武器",
+"gui.htct.previous_category": "上個分類",
+"gui.htct.next_category": "下個分類",
+
 "status_effect.stun": "暈眩",
 
 "action.swap": "狀態切換",

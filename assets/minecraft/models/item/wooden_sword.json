@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_sword"
+    },
+	"overrides": [
+		
+		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/machine/ht_ct"}
+		
+	]
+}

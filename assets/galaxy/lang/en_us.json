@@ -18,6 +18,19 @@
 
 "tooltip.blank": "",
 
+"block.galaxy.hi_tech_crafting_table": "Hi-Tech Crafting Table",
+
+"gui.blank": "",
+"gui.previous_page": "Previous Page",
+"gui.next_page": "Next Page",
+"gui.htct.all": "All",
+"gui.htct.material": "Material",
+"gui.htct.machine": "Machine",
+"gui.htct.functional_block": "Functional Block",
+"gui.htct.weapon": "Weapon",
+"gui.htct.previous_category": "Previous Category",
+"gui.htct.next_category": "Next Category",
+
 "status_effect.stun": "Stun",
 
 "action.swap": "Swap",

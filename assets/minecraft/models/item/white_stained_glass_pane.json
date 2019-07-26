@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/white_stained_glass"
+    },
+	"overrides": [
+		
+		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:gui/cover/a"},
+		{ "predicate": {"custom_model_data": 10200}, "model": "galaxy:gui/cover/c"},
+		{ "predicate": {"custom_model_data": 10201}, "model": "galaxy:gui/cover/qtl"},
+		{ "predicate": {"custom_model_data": 10202}, "model": "galaxy:gui/cover/t"},
+		{ "predicate": {"custom_model_data": 10203}, "model": "galaxy:gui/cover/qtr"},
+		{ "predicate": {"custom_model_data": 10204}, "model": "galaxy:gui/cover/r"},
+		{ "predicate": {"custom_model_data": 10205}, "model": "galaxy:gui/cover/qbr"},
+		{ "predicate": {"custom_model_data": 10206}, "model": "galaxy:gui/cover/b"},
+		{ "predicate": {"custom_model_data": 10207}, "model": "galaxy:gui/cover/qbl"},
+		{ "predicate": {"custom_model_data": 10208}, "model": "galaxy:gui/cover/l"},
+        
+		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/cover/htct_category_cursor"},
+        { "predicate": {"custom_model_data": 20101}, "model": "galaxy:gui/cover/htct_category_content"}
+        
+	]
+}

@@ -5,12 +5,19 @@
     },
 	"overrides": [
 		
-		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:gui/info"},
-		{ "predicate": {"custom_model_data": 10101}, "model": "galaxy:gui/i_o"},
-		{ "predicate": {"custom_model_data": 10102}, "model": "galaxy:gui/stun"},
+		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:gui/icon/info"},
+		{ "predicate": {"custom_model_data": 10101}, "model": "galaxy:gui/icon/i_o"},
+		{ "predicate": {"custom_model_data": 10102}, "model": "galaxy:gui/icon/stun"},
 		{ "predicate": {"custom_model_data": 10200}, "model": "galaxy:gui/icon-weapons"},
+        
 		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/katana-display"},
-		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/katana-edge_scabbard"}
+		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/katana-edge_scabbard"},
+        
+		{ "predicate": {"custom_model_data": 30100}, "model": "galaxy:gui/icon/all"},
+		{ "predicate": {"custom_model_data": 30101}, "model": "galaxy:item/steel_ingot"},
+		{ "predicate": {"custom_model_data": 30102}, "model": "galaxy:block/machine/ht_ct"},
+		{ "predicate": {"custom_model_data": 30103}, "model": "galaxy:block/functional/elevator"},
+		{ "predicate": {"custom_model_data": 30104}, "model": "galaxy:gui/katana-edge_scabbard"}
 		
 	]
 }
