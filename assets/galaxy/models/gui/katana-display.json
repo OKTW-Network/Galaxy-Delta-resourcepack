@@ -1,3 +1,8 @@
 {
-    "parent": "galaxy:item/katana/katana-normal_display"
+    "parent": "galaxy:item/katana/katana-normal_display",
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		}
+	}
 }

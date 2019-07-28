@@ -39,13 +39,20 @@
 "action.stun": "Stun",
 "action.flash": "Flash",
 
-"subtitles.item.katana.draw": "Katana drawing",
-"subtitles.item.katana.store": "Katana storing",
+"subtitles.item.katana.draw": "Katana draw",
+"subtitles.item.katana.store": "Katana store",
 
-"advancements.weaponry.root.title": "Galaxy: Weaponry",
-"advancements.weaponry.root.description": "Advanced weapons",
-"advancements.weaponry.katana_obtain.title": "Katanas!",
-"advancements.weaponry.katana_obtain.description": "Acquire a katana",
+"advancements.galaxy.root.title": "Galaxy: delta",
+"advancements.galaxy.root.description": "Made by OKTW team!",
+"advancements.galaxy.katana_obtain.title": "Heart of steel",
+"advancements.galaxy.katana_obtain.description": "Acquire a katana",
+"advancements.galaxy.sniper_obtain.title": "Bow? No,thanks.",
+"advancements.galaxy.sniper_obtain.description": "Acquire a sniper",
+
+"advancements.weaponry.root.title": "Galaxy: delta - Weaponry",
+"advancements.weaponry.root.description": "Advanced Weapons",
+"advancements.weaponry.katana.title": "Katana",
+"advancements.weaponry.katana.description": "Stylish melee attack",
 "advancements.weaponry.katana_obtain_katana.title": "Katana",
 "advancements.weaponry.katana_obtain_katana.description": "§7Common, but exquisite",
 "advancements.weaponry.katana_actions.title": "Actions   ",
@@ -53,5 +60,7 @@
 "advancements.weaponry.katana_act_swap.title": "Draw/Store",
 "advancements.weaponry.katana_act_swap.description": "§aSneak + Use    §7Draw or store katana from scabbard",
 "advancements.weaponry.katana_act_stun.title": "Stun            ",
-"advancements.weaponry.katana_act_stun.description": "§awhen drawed + Use §7Stun targets in front of you"
+"advancements.weaponry.katana_act_stun.description": "§awhen drawed + Use §7Stun targets in front of you",
+"advancements.weaponry.katana_act_flash.title": "Flash                           ",
+"advancements.weaponry.katana_act_flash.description": "§aStore back quickly after drawed  §7Flash forward and damage targets on the path"
 }

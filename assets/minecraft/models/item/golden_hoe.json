@@ -8,6 +8,8 @@
 		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:gui/icon/info"},
 		{ "predicate": {"custom_model_data": 10101}, "model": "galaxy:gui/icon/i_o"},
 		{ "predicate": {"custom_model_data": 10102}, "model": "galaxy:gui/icon/stun"},
+		{ "predicate": {"custom_model_data": 10103}, "model": "galaxy:gui/icon/flash"},
+		{ "predicate": {"custom_model_data": 10104}, "model": "galaxy:gui/icon/delta"},
 		{ "predicate": {"custom_model_data": 10200}, "model": "galaxy:gui/icon-weapons"},
         
 		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/katana-display"},
