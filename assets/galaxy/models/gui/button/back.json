@@ -1,0 +1,6 @@
+{
+    "parent": "galaxy:gui/button/_template-normal",
+    "textures": {
+        "icon": "galaxy:gui/icon_back"
+    }
+}

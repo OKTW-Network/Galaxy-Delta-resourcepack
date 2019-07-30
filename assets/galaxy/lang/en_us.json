@@ -21,6 +21,7 @@
 "block.galaxy.hi_tech_crafting_table": "Hi-Tech Crafting Table",
 
 "gui.blank": "",
+"container.hi_tech_crafting": "Hi-Tech Crafting",
 "gui.previous_page": "Previous Page",
 "gui.next_page": "Next Page",
 "gui.htct.all": "All",
@@ -30,6 +31,8 @@
 "gui.htct.weapon": "Weapon",
 "gui.htct.previous_category": "Previous Category",
 "gui.htct.next_category": "Next Category",
+"gui.htct.returnToList": "Back to list",
+"gui.htct.craftConfirm": "Craft",
 
 "status_effect.stun": "Stun",
 

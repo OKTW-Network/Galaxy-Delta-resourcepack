@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"0": "galaxy:item/colors",
+		"0": "galaxy:colors",
 		"1": "galaxy:item/portal"
 	},
 	"elements": [
@@ -1043,8 +1043,8 @@
 		},
 		"gui": {
 			"rotation": [60, 60, -60],
-			"translation": [2, 0.35, 0],
-			"scale": [0.7, 0.7, 0.7]
+			"translation": [2, 0.85, 0],
+			"scale": [0.725, 0.725, 0.725]
 		},
 		"fixed": {
 			"rotation": [0, -90, 0],

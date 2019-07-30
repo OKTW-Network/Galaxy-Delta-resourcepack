@@ -5,6 +5,7 @@
     },
 	"overrides": [
 		
+		{ "predicate": {"custom_model_data": 100}, "model": "galaxy:block/blank"},
 		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/machine/ht_ct"}
 		
 	]

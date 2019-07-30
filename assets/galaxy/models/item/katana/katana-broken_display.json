@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"0": "galaxy:item/katana/colors",
+		"0": "galaxy:item/katana/katana_colors",
 		"2": "galaxy:item/katana/sign_bg",
 		"img": "galaxy:item/katana/katana_sign",
 		"particle": "galaxy:item/katana/katana_sign"

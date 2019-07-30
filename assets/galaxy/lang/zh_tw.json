@@ -21,6 +21,7 @@
 "block.galaxy.hi_tech_crafting_table": "高科技工作台",
 
 "gui.blank": "",
+"container.hi_tech_crafting": "高科技合成",
 "gui.previous_page": "上一頁",
 "gui.next_page": "下一頁",
 "gui.htct.all": "全部",
@@ -30,6 +31,8 @@
 "gui.htct.weapon": "武器",
 "gui.htct.previous_category": "上個分類",
 "gui.htct.next_category": "下個分類",
+"gui.htct.returnToList": "回到合成列表",
+"gui.htct.craftConfirm": "合成",
 
 "status_effect.stun": "暈眩",
 
@@ -51,18 +54,18 @@
 
 "advancements.weaponry.root.title": "Galaxy: delta - 武器",
 "advancements.weaponry.root.description": "各式獨特武器",
-"advancements.weaponry.katana.title": "武士刀",
-"advancements.weaponry.katana.description": "近距離戰鬥風格化",
-"advancements.weaponry.katana_obtain_katana.title": "鋼刃",
-"advancements.weaponry.katana_obtain_katana.description": "§7看似普通，但精緻",
+"advancements.weaponry.katana.title": "武士刀    ",
+"advancements.weaponry.katana.description": "風格化近距離戰鬥",
+"advancements.weaponry.katana_obtain_katana.title": "鋼刃     ",
+"advancements.weaponry.katana_obtain_katana.description": "§7以鋼製成的刀身，看上去十分堅固",
 "advancements.weaponry.katana_actions.title": "動作組",
 "advancements.weaponry.katana_actions.description": "§7將武士刀置於非慣用手",
 "advancements.weaponry.katana_act_swap.title": "拔出/收回   ",
 "advancements.weaponry.katana_act_swap.description": "§a蹲下 + 使用鍵 §7將刀從鞘拔出或收回",
 "advancements.weaponry.katana_act_stun.title": "擊暈      ",
 "advancements.weaponry.katana_act_stun.description": "§a拔刀時 + 使用鍵 §7使前方目標暈眩",
-"advancements.weaponry.katana_act_flash.title": "閃瞬      ",
-"advancements.weaponry.katana_act_flash.description": "§a拔刀後迅速收刀  §7向前瞬間移動並傷害路徑上的目標",
+"advancements.weaponry.katana_act_flash.title": "閃瞬         ",
+"advancements.weaponry.katana_act_flash.description": "§a拔刀後迅速收刀  §7向前瞬間移動 並傷害路徑上的目標",
 "advancements.weaponry.sniper.title": "狙擊槍",
-"advancements.weaponry.sniper.description": "獵頭專家",
+"advancements.weaponry.sniper.description": "獵頭專家"
 }
