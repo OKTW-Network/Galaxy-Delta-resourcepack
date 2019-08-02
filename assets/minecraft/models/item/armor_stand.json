@@ -6,7 +6,11 @@
 	"overrides": [
 		
 		{ "predicate": {"custom_model_data": 100}, "model": "galaxy:block/blank"},
-		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/machine/ht_ct"}
+		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/machine/ht_ct"},
+        
+        { "predicate": {"custom_model_data": 20100}, "model": "galaxy:block/functional/elevator"},
+        { "predicate": {"custom_model_data": 20200}, "model": "galaxy:block/functional/katana_showcase-1"},
+        { "predicate": {"custom_model_data": 20201}, "model": "galaxy:block/functional/katana_showcase-2"}
 		
 	]
 }
