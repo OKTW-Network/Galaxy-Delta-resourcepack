@@ -1,15 +1,16 @@
 {
 "item.galaxy.steel_ingot": "Steel Ingot",
 
-"item.galaxy.scabbard.name": "Scabbard",
 
-"item.galaxy.katana.name": "Katana",
+"item.galaxy.scabbard": "Scabbard",
+
+"item.galaxy.katana": "Katana",
 "item.galaxy.katana.lore": " ",
-"item.galaxy.nazo.name": "Technoly -Nazo-",
+"item.galaxy.nazo": "Technoly -Nazo-",
 "item.galaxy.nazo.lore": " ",
-"item.slashedge.hikana.name": "Phantom maze -Hinokage-",
+"item.slashedge.hikana": "Phantom maze -Hinokage-",
 "item.slashedge.hikana.lore": " ",
-"item.slashedge.denkomaru.name": "Denkomaru",
+"item.slashedge.denkomaru": "Denkomaru",
 "item.slashedge.denkomaru.lore": " ",
 
 "tooltip.enchStatus.sealed": "sealed",

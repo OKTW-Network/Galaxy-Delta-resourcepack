@@ -1,15 +1,16 @@
 {
 "item.galaxy.steel_ingot": "鋼錠",
 
-"item.galaxy.scabbard.name": "鞘",
 
-"item.galaxy.katana.name": "鋼刃",
+"item.galaxy.scabbard": "鞘",
+
+"item.galaxy.katana": "鋼刃",
 "item.galaxy.katana.lore": " ",
-"item.galaxy.nazo.name": "科技不朽 ｢鈉佐｣",
+"item.galaxy.nazo": "科技不朽 ｢鈉佐｣",
 "item.galaxy.nazo.lore": " ",
-"item.slashedge.hikana.name": "幻漠 「日之影」",
+"item.slashedge.hikana": "幻漠 「日之影」",
 "item.slashedge.hikana.lore": " ",
-"item.slashedge.denkomaru.name": "名刀 「電光丸」",
+"item.slashedge.denkomaru": "名刀 「電光丸」",
 "item.slashedge.denkomaru.lore": " ",
 
 "tooltip.enchStatus.sealed": "封",
