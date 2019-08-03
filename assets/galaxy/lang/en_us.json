@@ -1,6 +1,8 @@
 {
 "item.galaxy.steel_ingot": "Steel Ingot",
 
+"item.galaxy.wrench": "Wrench",
+"item.galaxy.structure_empower": "Structure Empower Tool",
 
 "item.galaxy.scabbard": "Scabbard",
 
@@ -32,10 +34,11 @@
 "gui.htct.machine": "Machine",
 "gui.htct.functional_block": "Functional Block",
 "gui.htct.weapon": "Weapon",
+"gui.htct.tool": "Tool",
 "gui.htct.previous_category": "Previous Category",
 "gui.htct.next_category": "Next Category",
 "gui.htct.returnToList": "Back to list",
-"gui.htct.craftConfirm": "Craft",
+"gui.htct.craftConfirm": "§aCraft",
 
 "status_effect.stun": "Stun",
 

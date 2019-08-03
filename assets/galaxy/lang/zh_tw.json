@@ -1,6 +1,7 @@
 {
 "item.galaxy.steel_ingot": "鋼錠",
 
+"item.galaxy.wrench": "扳手",
 
 "item.galaxy.scabbard": "鞘",
 
@@ -32,10 +33,11 @@
 "gui.htct.machine": "機器",
 "gui.htct.functional_block": "功能方塊",
 "gui.htct.weapon": "武器",
+"gui.htct.tool": "工具",
 "gui.htct.previous_category": "上個分類",
 "gui.htct.next_category": "下個分類",
 "gui.htct.returnToList": "回到合成列表",
-"gui.htct.craftConfirm": "合成",
+"gui.htct.craftConfirm": "§a合成",
 
 "status_effect.stun": "暈眩",
 
