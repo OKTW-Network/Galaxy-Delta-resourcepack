@@ -2,6 +2,7 @@
 "item.galaxy.steel_ingot": "鋼錠",
 
 "item.galaxy.wrench": "扳手",
+"item.galaxy.structure_empower": "結構充能工具",
 
 "item.galaxy.scabbard": "鞘",
 
@@ -13,10 +14,6 @@
 "item.slashedge.hikana.lore": " ",
 "item.slashedge.denkomaru": "名刀 「電光丸」",
 "item.slashedge.denkomaru.lore": " ",
-
-"tooltip.enchStatus.sealed": "封",
-"tooltip.enchStatus.enchanted": "印",
-"tooltip.enchStatus.bewitched": "妖",
 
 "tooltip.blank": "",
 

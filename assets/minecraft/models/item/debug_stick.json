@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stick"
+    },
+	"overrides": [
+		
+		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:item/tool/wrench"},
+		{ "predicate": {"custom_model_data": 10200}, "model": "galaxy:item/tool/magnet"},
+		{ "predicate": {"custom_model_data": 10300}, "model": "galaxy:item/tool/structure_empower"},
+		{ "predicate": {"custom_model_data": 10400}, "model": "galaxy:item/tool/sp_remover"}
+		
+	]
+}
