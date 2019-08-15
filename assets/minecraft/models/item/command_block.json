@@ -2,7 +2,8 @@
     "parent": "block/command_block",
 	"overrides": [
 		
-		{ "predicate": {"custom_model_data": 1010}, "model": "galaxy:item/steel_ingot"}
+		{ "predicate": {"custom_model_data": 1010}, "model": "galaxy:item/steel_ingot"},
+        { "predicate": {"custom_model_data": 1020}, "model": "galaxy:item/coke"}
 		
 	]
 }

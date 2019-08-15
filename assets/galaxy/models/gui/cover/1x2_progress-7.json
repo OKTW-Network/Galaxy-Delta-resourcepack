@@ -1,0 +1,6 @@
+{
+    "parent": "galaxy:gui/cover/_template-1x2_progress",
+    "textures": {
+        "icon": "galaxy:gui/progress_7"
+    }
+}

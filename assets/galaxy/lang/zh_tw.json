@@ -1,4 +1,5 @@
 {
+"item.galaxy.coke": "焦炭",
 "item.galaxy.steel_ingot": "鋼錠",
 
 "item.galaxy.wrench": "扳手",
@@ -20,9 +21,17 @@
 "block.galaxy.katana_showcase": "刀架",
 
 "block.galaxy.hi_tech_crafting_table": "高科技工作台",
+"block.galaxy.coke_furnace": "焦炭爐",
+"block.galaxy.advanced_blast_furnace": "進階高爐",
+
+"container.hi_tech_crafting": "高科技合成",
+"container.coke_furnace": "                焦炭爐",
+"container.advanced_blast_furnace": "                進階高爐",
 
 "gui.blank": "",
-"container.hi_tech_crafting": "高科技合成",
+"gui.process.invalid": "無法運作",
+"gui.process.idle": "閒置",
+"gui.process.working": "運作中",
 "gui.previous_page": "上一頁",
 "gui.next_page": "下一頁",
 "gui.htct.all": "全部",

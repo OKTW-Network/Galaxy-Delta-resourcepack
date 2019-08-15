@@ -16,6 +16,7 @@
 		{ "predicate": {"custom_model_data": 10206}, "model": "galaxy:gui/cover/b"},
 		{ "predicate": {"custom_model_data": 10207}, "model": "galaxy:gui/cover/qbl"},
 		{ "predicate": {"custom_model_data": 10208}, "model": "galaxy:gui/cover/l"},
+		{ "predicate": {"custom_model_data": 10300}, "model": "galaxy:gui/cover/extend_all"},
         
 		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/cover/3x1_c"},
         { "predicate": {"custom_model_data": 20101}, "model": "galaxy:gui/cover/2x1_c_up"},
@@ -30,7 +31,33 @@
 		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/cover/3x1_c_selector_left"},
         { "predicate": {"custom_model_data": 20201}, "model": "galaxy:gui/cover/3x1_c_selector_right"},
 		{ "predicate": {"custom_model_data": 20300}, "model": "galaxy:gui/cover/3x1_c_arrow_left"},
-        { "predicate": {"custom_model_data": 20301}, "model": "galaxy:gui/cover/3x1_c_arrow_right"}
+        { "predicate": {"custom_model_data": 20301}, "model": "galaxy:gui/cover/3x1_c_arrow_right"},
+        { "predicate": {"custom_model_data": 20400}, "model": "galaxy:gui/cover/1x2_progress-0"},
+        { "predicate": {"custom_model_data": 20401}, "model": "galaxy:gui/cover/1x2_progress-1"},
+        { "predicate": {"custom_model_data": 20402}, "model": "galaxy:gui/cover/1x2_progress-2"},
+        { "predicate": {"custom_model_data": 20403}, "model": "galaxy:gui/cover/1x2_progress-3"},
+        { "predicate": {"custom_model_data": 20404}, "model": "galaxy:gui/cover/1x2_progress-4"},
+        { "predicate": {"custom_model_data": 20405}, "model": "galaxy:gui/cover/1x2_progress-5"},
+        { "predicate": {"custom_model_data": 20406}, "model": "galaxy:gui/cover/1x2_progress-6"},
+        { "predicate": {"custom_model_data": 20407}, "model": "galaxy:gui/cover/1x2_progress-7"},
+        { "predicate": {"custom_model_data": 20408}, "model": "galaxy:gui/cover/1x2_progress-8"},
+        { "predicate": {"custom_model_data": 20409}, "model": "galaxy:gui/cover/1x2_progress-9"},
+        { "predicate": {"custom_model_data": 20410}, "model": "galaxy:gui/cover/1x2_progress-10"},
+        { "predicate": {"custom_model_data": 20411}, "model": "galaxy:gui/cover/1x2_progress-11"},
+        { "predicate": {"custom_model_data": 20412}, "model": "galaxy:gui/cover/1x2_progress-12"},
+        { "predicate": {"custom_model_data": 20413}, "model": "galaxy:gui/cover/1x2_progress-13"},
+        { "predicate": {"custom_model_data": 20414}, "model": "galaxy:gui/cover/1x2_progress-14"},
+        { "predicate": {"custom_model_data": 20415}, "model": "galaxy:gui/cover/1x2_progress-15"},
+        { "predicate": {"custom_model_data": 20416}, "model": "galaxy:gui/cover/1x2_progress-16"},
+        { "predicate": {"custom_model_data": 20417}, "model": "galaxy:gui/cover/1x2_progress-17"},
+        { "predicate": {"custom_model_data": 20418}, "model": "galaxy:gui/cover/1x2_progress-18"},
+        { "predicate": {"custom_model_data": 20419}, "model": "galaxy:gui/cover/1x2_progress-19"},
+        { "predicate": {"custom_model_data": 20420}, "model": "galaxy:gui/cover/1x2_progress-20"},
+        { "predicate": {"custom_model_data": 20421}, "model": "galaxy:gui/cover/1x2_progress-21"},
+        { "predicate": {"custom_model_data": 20422}, "model": "galaxy:gui/cover/1x2_progress-22"},
+        { "predicate": {"custom_model_data": 20423}, "model": "galaxy:gui/cover/1x2_progress-blocked"},
+        { "predicate": {"custom_model_data": 20500}, "model": "galaxy:gui/cover/smelt_off"},
+        { "predicate": {"custom_model_data": 20501}, "model": "galaxy:gui/cover/smelt_on"}
         
 	]
 }

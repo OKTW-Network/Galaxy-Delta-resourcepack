@@ -6,10 +6,10 @@
 	"elements": [
 		{
 			"name": "cover",
-			"from": [5, 0, 5],
-			"to": [11, 0.25, 17],
+			"from": [-1, 0, -1],
+			"to": [17, 0.25, 17],
 			"faces": {
-				"up": {"uv": [0, 9, 4.5, 0], "texture": "#cover"}
+				"up": {"uv": [0, 0, 13.5, 13.5], "texture": "#cover"}
 			}
 		}
 	],
@@ -31,7 +31,7 @@
 		},
 		"gui": {
 			"rotation": [90, 0, 0],
-			"translation": [0, 0, -10],
+			"translation": [18, -18, -10],
 			"scale": [3, 0.5, 3]
 		},
 		"head": {

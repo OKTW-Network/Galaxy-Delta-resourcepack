@@ -1,15 +1,25 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"particle": "#cover"
+		"cover": "galaxy:gui/cover_3x3_c"
 	},
 	"elements": [
 		{
 			"name": "cover",
 			"from": [5, 0, 5],
-			"to": [11, 0.25, 17],
+			"to": [17, 0.25, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 8]},
 			"faces": {
-				"up": {"uv": [0, 9, 4.5, 0], "texture": "#cover"}
+				"up": {"uv": [9, 4.5, 0, 9], "texture": "#cover"}
+			}
+		},
+		{
+			"name": "arrow",
+			"from": [7, 0.25, 5],
+			"to": [19, 0.5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 8]},
+			"faces": {
+				"up": {"uv": [3.5, 6, 12.5, 10.5], "texture": "#icon"}
 			}
 		}
 	],

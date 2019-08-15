@@ -6,10 +6,10 @@
 	"elements": [
 		{
 			"name": "cover",
-			"from": [5, 0, 5],
-			"to": [11, 0.25, 17],
+			"from": [-1, 0, 5],
+			"to": [17, 0.25, 11],
 			"faces": {
-				"up": {"uv": [0, 9, 4.5, 0], "texture": "#cover"}
+				"up": {"uv": [0, 0, 4.5, 13.5], "texture": "#cover"}
 			}
 		}
 	],
