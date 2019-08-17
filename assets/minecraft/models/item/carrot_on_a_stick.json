@@ -23,7 +23,7 @@
 		{ "predicate": {"custom_model_data": 110601}, "model": "galaxy:item/katana/katana-normal_scabbard_showcase-1"},
 		{ "predicate": {"custom_model_data": 110602}, "model": "galaxy:item/katana/katana-normal_off_showcase-2"},
 		{ "predicate": {"custom_model_data": 110603}, "model": "galaxy:item/katana/katana-normal_on_showcase-2"},
-		{ "predicate": {"custom_model_data": 110604}, "model": "galaxy:item/katana/katana-normal_scabbard_showcase-2"},
+		{ "predicate": {"custom_model_data": 110604}, "model": "galaxy:item/katana/katana-normal_scabbard_showcase-2"}
 		
 	]
 }
