@@ -4,8 +4,9 @@
 
 "item.galaxy.wrench": "Wrench",
 "item.galaxy.structure_empower": "Structure Empower Tool",
+"item.galaxy.shield_projector": "Shield Projector",
 
-"item.galaxy.scabbard": "Scabbard",
+"item.galaxy.lasor": "Lasor",
 
 "item.galaxy.katana": "Katana",
 "item.galaxy.katana.lore": " ",
@@ -15,6 +16,7 @@
 "item.slashedge.hikana.lore": " ",
 "item.slashedge.denkomaru": "Denkomaru",
 "item.slashedge.denkomaru.lore": " ",
+"item.galaxy.scabbard": "Scabbard",
 
 "tooltip.blank": "",
 
@@ -53,6 +55,9 @@
 "action.stun": "Stun",
 "action.flash": "Flash",
 
+"warning.multi_shield": "Detecting multiple Shield Projectors activated, automatically switch to safe mode.",
+"warning.shield_disable": "Shield Projector deactivate",
+
 "subtitles.item.katana.draw": "Katana draw",
 "subtitles.item.katana.store": "Katana store",
 
@@ -70,11 +75,11 @@
 "advancements.weaponry.katana_obtain_katana.title": "Katana",
 "advancements.weaponry.katana_obtain_katana.description": "§7Common, but exquisite",
 "advancements.weaponry.katana_actions.title": "Actions   ",
-"advancements.weaponry.katana_actions.description": "§7Put katana in your off-hand",
+"advancements.weaponry.katana_actions.description": "§7Hold katana in your off-hand",
 "advancements.weaponry.katana_act_swap.title": "Draw/Store",
 "advancements.weaponry.katana_act_swap.description": "§aSneak + Use    §7Draw or store katana from scabbard",
 "advancements.weaponry.katana_act_stun.title": "Stun            ",
-"advancements.weaponry.katana_act_stun.description": "§awhen drawed + Use §7Stun targets in front of you",
+"advancements.weaponry.katana_act_stun.description": "§aWhen draw -> Use §7Stun targets in front of you",
 "advancements.weaponry.katana_act_flash.title": "Flash                           ",
-"advancements.weaponry.katana_act_flash.description": "§aStore back quickly after drawed  §7Flash forward and damage targets on the path"
+"advancements.weaponry.katana_act_flash.description": "§aStore back quickly after draw  §7Flash forward and damage targets on the path"
 }

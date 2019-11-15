@@ -5,6 +5,7 @@
     },
 	"overrides": [
 		
+        { "predicate": {"custom_model_data": 100}, "model": "galaxy:item/blank"},
 		{ "predicate": {"custom_model_data": 110100}, "model": "galaxy:item/katana/katana-normal_display"},
 		{ "predicate": {"custom_model_data": 110101}, "model": "galaxy:item/katana/katana-broken_display"},
 		{ "predicate": {"custom_model_data": 110200}, "model": "galaxy:item/katana/katana-normal_off"},

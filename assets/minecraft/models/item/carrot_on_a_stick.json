@@ -5,6 +5,7 @@
     },
 	"overrides": [
 		
+        { "predicate": {"custom_model_data": 100}, "model": "galaxy:item/blank"},
 		{ "predicate": {"custom_model_data": 110100}, "model": "galaxy:item/katana/katana-normal_display"},
 		{ "predicate": {"custom_model_data": 110101}, "model": "galaxy:item/katana/katana-broken_display"},
 		{ "predicate": {"custom_model_data": 110200}, "model": "galaxy:item/katana/katana-normal_off"},
@@ -23,7 +24,11 @@
 		{ "predicate": {"custom_model_data": 110601}, "model": "galaxy:item/katana/katana-normal_scabbard_showcase-1"},
 		{ "predicate": {"custom_model_data": 110602}, "model": "galaxy:item/katana/katana-normal_off_showcase-2"},
 		{ "predicate": {"custom_model_data": 110603}, "model": "galaxy:item/katana/katana-normal_on_showcase-2"},
-		{ "predicate": {"custom_model_data": 110604}, "model": "galaxy:item/katana/katana-normal_scabbard_showcase-2"}
+		{ "predicate": {"custom_model_data": 110604}, "model": "galaxy:item/katana/katana-normal_scabbard_showcase-2"},
 		
+        { "predicate": {"custom_model_data": 210100}, "model": "galaxy:item/pistol/lasor"},
+        { "predicate": {"custom_model_data": 210101}, "model": "galaxy:item/pistol/lasor_aim"},
+        { "predicate": {"custom_model_data": 210102}, "model": "galaxy:item/pistol/lasor_dual_aim"}
+        
 	]
 }

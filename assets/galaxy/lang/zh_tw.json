@@ -4,8 +4,9 @@
 
 "item.galaxy.wrench": "扳手",
 "item.galaxy.structure_empower": "結構充能工具",
+"item.galaxy.shield_projector": "護盾立場投射裝置",
 
-"item.galaxy.scabbard": "鞘",
+"item.galaxy.lasor": "拉索",
 
 "item.galaxy.katana": "鋼刃",
 "item.galaxy.katana.lore": " ",
@@ -15,6 +16,7 @@
 "item.slashedge.hikana.lore": " ",
 "item.slashedge.denkomaru": "名刀 「電光丸」",
 "item.slashedge.denkomaru.lore": " ",
+"item.galaxy.scabbard": "鞘",
 
 "tooltip.blank": "",
 
@@ -52,6 +54,9 @@
 "action.swap.store": "收刀",
 "action.stun": "擊暈",
 "action.flash": "閃瞬",
+
+"warning.multi_shield": "偵測到多個啟用的護盾立場投射裝置，已切換至安全模式。",
+"warning.shield_disable": "護盾立場投射裝置已禁用",
 
 "subtitles.item.katana.draw": "武士刀出鞘",
 "subtitles.item.katana.store": "武士刀入鞘",
