@@ -1,5 +1,5 @@
 {
-	"parent": "galaxy:item/katana/katana-normal_on",
+	"parent": "galaxy:item/weapon/katana/katana-normal_on",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -81, 81],

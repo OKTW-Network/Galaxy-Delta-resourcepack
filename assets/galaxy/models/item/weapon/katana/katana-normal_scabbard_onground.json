@@ -1,5 +1,5 @@
 {
-	"parent": "galaxy:item/katana/katana-normal_scabbard",
+	"parent": "galaxy:item/weapon/katana/katana-normal_scabbard",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, -36, 90],

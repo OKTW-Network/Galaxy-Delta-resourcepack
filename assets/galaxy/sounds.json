@@ -57,5 +57,23 @@
 		"pitch": 0.9
       }
     ]
+  },
+  "energy-saber.turn_on": {
+    "sounds": [
+	  {
+        "name": "galaxy:energy-saber/turn_on",
+	    "volume": 0.5,
+		"pitch": 1.0
+      }
+    ]
+  },
+  "energy-saber.turn_off": {
+    "sounds": [
+	  {
+        "name": "galaxy:energy-saber/turn_off",
+	    "volume": 0.5,
+		"pitch": 1.0
+      }
+    ]
   }
 }
