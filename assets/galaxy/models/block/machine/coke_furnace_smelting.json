@@ -3,7 +3,6 @@
 	"textures": {
 		"0": "galaxy:block/machine/coke_furnace_top",
 		"1": "galaxy:block/machine/coke_furnace_side",
-		"2": "galaxy:block/machine/coke_furnace_bottom",
 		"3": "galaxy:block/machine/coke_furnace_front_on",
 		"particle": "galaxy:block/machine/coke_furnace_top"
 	},
@@ -17,7 +16,7 @@
 				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		}
 	],

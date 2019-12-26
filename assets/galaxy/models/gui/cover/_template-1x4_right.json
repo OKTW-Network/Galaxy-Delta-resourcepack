@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench, model design by OKTW team",
+	"textures": {
+		"particle": "#cover"
+	},
+	"elements": [
+		{
+			"name": "cover",
+			"from": [5, 0, 5],
+			"to": [29, 0.25, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 12, 3], "texture": "#cover"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -10],
+			"scale": [3, 0.5, 3]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

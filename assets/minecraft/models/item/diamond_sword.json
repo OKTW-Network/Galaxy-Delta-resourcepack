@@ -50,7 +50,6 @@
 		{ "predicate": {"custom_model_data": 130200}, "model": "galaxy:item/weapon/energy-saber/plasum_off"},
 		{ "predicate": {"custom_model_data": 130201}, "model": "galaxy:item/weapon/energy-saber/plasum_on"},
 		{ "predicate": {"custom_model_data": 130300}, "model": "galaxy:item/weapon/energy-saber/plasum_off_onground"},
-		{ "predicate": {"custom_model_data": 130301}, "model": "galaxy:item/weapon/energy-saber/plasum_on_onground"},
 		{ "predicate": {"custom_model_data": 130400}, "model": "galaxy:item/weapon/energy-saber/plasum_on_showcase-1"},
 		{ "predicate": {"custom_model_data": 130401}, "model": "galaxy:item/weapon/energy-saber/plasum_off_showcase-2"}
 		

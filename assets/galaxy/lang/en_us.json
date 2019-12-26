@@ -19,16 +19,20 @@
 "item.galaxy.scabbard": "Scabbard",
 
 "tooltip.blank": "",
+"tooltip.configured":"configured",
 
 "block.galaxy.katana_showcase": "Katana Showcase",
 
 "block.galaxy.hi_tech_crafting_table": "Hi-Tech Crafting Table",
 "block.galaxy.coke_furnace": "Coke Furnace",
 "block.galaxy.advanced_blast_furnace": "Advanced Blast Furnace",
+"block.galaxy.super_builder-pistol": "Pistol Super Builder",
 
+"container.blank": "",
 "container.hi_tech_crafting": "Hi-Tech Crafting",
 "container.coke_furnace": "            Coke Furnace",
 "container.advanced_blast_furnace": "     Advanced Blast Furnace",
+"container.super_builder-pistol": "Super Builder - Pistol",
 
 "gui.blank": "",
 "gui.process.invalid": "Process Blocked",
@@ -46,6 +50,32 @@
 "gui.htct.next_category": "Next Category",
 "gui.htct.returnToList": "Back to list",
 "gui.htct.craftConfirm": "§aCraft",
+"gui.sbld.pistol.style": "Style",
+"gui.sbld.pistol.damage": "Damage",
+"gui.sbld.pistol.max_distance": "Maximum Distance",
+"gui.sbld.pistol.firing_delay": "Firing Delay",
+"gui.sbld.pistol.max_temperature": "Temperature resistance",
+"gui.sbld.pistol.heat": "Firing Heat",
+"gui.sbld.pistol.cooling": "Cooling",
+"gui.sbld.pistol.colling_delay": "Cooling Delay",
+"gui.sbld.pistol.bullet_speed": "Bullet Speed",
+"gui.sbld.pistol.bullet_offset": "Bullet Offset",
+
+"book.generator.option_prefix": "§7> ",
+"book.generator.option_decrease": "§c-",
+"book.generator.option_increase": "§2+",
+"book.generator.generate": "       §3[Generate]",
+"book.pistol_gen.title": "   §6Pistol Generator",
+"book.pistol_gen.option.style": "Style",
+"book.pistol_gen.option.damage": "Damage",
+"book.pistol_gen.option.distance": "Distance",
+"book.pistol_gen.option.firing_delay": "Firing Delay",
+"book.pistol_gen.option.maxTemp": "Temperature",
+"book.pistol_gen.option.heat": "Firing Heat",
+"book.pistol_gen.option.cooling": "Cooling",
+"book.pistol_gen.option.cooling_delay": "Cooling Delay",
+"book.pistol_gen.option.bullet_speed": "Bullet Speed",
+"book.pistol_gen.option.bullet_offset": "Bullet Offset",
 
 "status_effect.stun": "Stun",
 
@@ -54,6 +84,8 @@
 "action.swap.store": "Store",
 "action.stun": "Stun",
 "action.flash": "Flash",
+
+"action.pistol": "Pistol",
 
 "warning.multi_shield": "Detecting multiple Shield Projectors activated, automatically switch to safe mode.",
 "warning.shield_disable": "Shield Projector deactivate",

@@ -12,6 +12,7 @@
         { "predicate": {"custom_model_data": 10201}, "model": "galaxy:block/machine/coke_furnace_smelting"},
         { "predicate": {"custom_model_data": 10300}, "model": "galaxy:block/machine/advanced_blast_furnace"},
         { "predicate": {"custom_model_data": 10301}, "model": "galaxy:block/machine/advanced_blast_furnace_smelting"},
+		{ "predicate": {"custom_model_data": 10400}, "model": "galaxy:block/machine/super_builder-pistol"},
         
         { "predicate": {"custom_model_data": 20100}, "model": "galaxy:block/functional/elevator"},
         { "predicate": {"custom_model_data": 20200}, "model": "galaxy:block/functional/katana_showcase-1"},

@@ -17,11 +17,22 @@
 		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/katana-edge_scabbard"},
         
 		{ "predicate": {"custom_model_data": 30100}, "model": "galaxy:gui/icon/all"},
-		{ "predicate": {"custom_model_data": 30101}, "model": "galaxy:item/steel_ingot"},
+		{ "predicate": {"custom_model_data": 30101}, "model": "galaxy:item/material/steel_ingot"},
 		{ "predicate": {"custom_model_data": 30102}, "model": "galaxy:block/machine/ht_ct"},
 		{ "predicate": {"custom_model_data": 30103}, "model": "galaxy:block/functional/elevator"},
-		{ "predicate": {"custom_model_data": 30104}, "model": "galaxy:item/pistol/lasor"},
-		{ "predicate": {"custom_model_data": 30105}, "model": "galaxy:item/tool/wrench"}
+		{ "predicate": {"custom_model_data": 30104}, "model": "galaxy:item/weapon/pistol/lasor"},
+		{ "predicate": {"custom_model_data": 30105}, "model": "galaxy:item/tool/wrench"},
+        
+		{ "predicate": {"custom_model_data": 30200}, "model": "galaxy:gui/icon/style"},
+		{ "predicate": {"custom_model_data": 30201}, "model": "galaxy:gui/icon/damage"},
+		{ "predicate": {"custom_model_data": 30202}, "model": "galaxy:gui/icon/max_distance"},
+		{ "predicate": {"custom_model_data": 30203}, "model": "galaxy:gui/icon/firing_delay"},
+		{ "predicate": {"custom_model_data": 30204}, "model": "galaxy:gui/icon/max_temperature"},
+		{ "predicate": {"custom_model_data": 30205}, "model": "galaxy:gui/icon/heat"},
+		{ "predicate": {"custom_model_data": 30206}, "model": "galaxy:gui/icon/cooling"},
+		{ "predicate": {"custom_model_data": 30207}, "model": "galaxy:gui/icon/cooling_delay"},
+		{ "predicate": {"custom_model_data": 30208}, "model": "galaxy:gui/icon/bullet_speed"},
+		{ "predicate": {"custom_model_data": 30209}, "model": "galaxy:gui/icon/bullet_offset"}
 		
 	]
 }

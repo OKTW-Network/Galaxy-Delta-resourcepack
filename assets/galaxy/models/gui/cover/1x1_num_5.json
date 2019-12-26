@@ -1,0 +1,7 @@
+{
+    "parent": "galaxy:gui/cover/_template-1x1_icon",
+    "textures": {
+        "cover": "galaxy:gui/cover_3x3_c_light-gray",
+        "icon": "galaxy:gui/icon_num_5"
+    }
+}

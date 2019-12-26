@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench, model design by OKTW team",
+	"textures": {
+		"cover": "galaxy:gui/cover_3x3_c",
+		"icon": "galaxy:gui/progress_0"
+	},
+	"elements": [
+		{
+			"name": "cover",
+			"from": [5, 0, 5],
+			"to": [11, 0.25, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 8]},
+			"faces": {
+				"up": {"uv": [9, 4.5, 0, 9], "texture": "#cover"}
+			}
+		},
+		{
+			"name": "arrow",
+			"from": [4.5, 0.25, 5],
+			"to": [16.5, 0.5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 8, 8]},
+			"faces": {
+				"up": {"uv": [3.5, 6, 12.5, 10.5], "texture": "#icon"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -10],
+			"scale": [3, 0.5, 3]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}
