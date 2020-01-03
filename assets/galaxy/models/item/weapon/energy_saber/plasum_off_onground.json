@@ -1,5 +1,5 @@
 {
-	"parent": "galaxy:item/weapon/energy-saber/plasum_off",
+	"parent": "galaxy:item/weapon/energy_saber/plasum_off",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 90, 0],

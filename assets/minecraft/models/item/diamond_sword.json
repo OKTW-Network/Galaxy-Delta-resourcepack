@@ -46,12 +46,19 @@
 		{ "predicate": {"custom_model_data": 120603}, "model": "galaxy:item/weapon/katana/nazo-normal_on_showcase-2"},
 		{ "predicate": {"custom_model_data": 120604}, "model": "galaxy:item/weapon/katana/nazo-normal_scabbard_showcase-2"},
 
-		{ "predicate": {"custom_model_data": 130100}, "model": "galaxy:item/weapon/energy-saber/plasum_display"},
-		{ "predicate": {"custom_model_data": 130200}, "model": "galaxy:item/weapon/energy-saber/plasum_off"},
-		{ "predicate": {"custom_model_data": 130201}, "model": "galaxy:item/weapon/energy-saber/plasum_on"},
-		{ "predicate": {"custom_model_data": 130300}, "model": "galaxy:item/weapon/energy-saber/plasum_off_onground"},
-		{ "predicate": {"custom_model_data": 130400}, "model": "galaxy:item/weapon/energy-saber/plasum_on_showcase-1"},
-		{ "predicate": {"custom_model_data": 130401}, "model": "galaxy:item/weapon/energy-saber/plasum_off_showcase-2"}
+		{ "predicate": {"custom_model_data": 310100}, "model": "galaxy:item/weapon/energy_saber/plasum_display"},
+		{ "predicate": {"custom_model_data": 310200}, "model": "galaxy:item/weapon/energy_saber/plasum_off"},
+		{ "predicate": {"custom_model_data": 310201}, "model": "galaxy:item/weapon/energy_saber/plasum_on"},
+		{ "predicate": {"custom_model_data": 310300}, "model": "galaxy:item/weapon/energy_saber/plasum_off_onground"},
+		{ "predicate": {"custom_model_data": 310400}, "model": "galaxy:item/weapon/energy_saber/plasum_on_showcase-1"},
+		{ "predicate": {"custom_model_data": 310401}, "model": "galaxy:item/weapon/energy_saber/plasum_off_showcase-2"},
+
+		{ "predicate": {"custom_model_data": 320100}, "model": "galaxy:item/weapon/energy_saber/ranbo_display"},
+		{ "predicate": {"custom_model_data": 320200}, "model": "galaxy:item/weapon/energy_saber/ranbo_off"},
+		{ "predicate": {"custom_model_data": 320201}, "model": "galaxy:item/weapon/energy_saber/ranbo_on"},
+		{ "predicate": {"custom_model_data": 320300}, "model": "galaxy:item/weapon/energy_saber/ranbo_off_onground"},
+		{ "predicate": {"custom_model_data": 320400}, "model": "galaxy:item/weapon/energy_saber/ranbo_on_showcase-1"},
+		{ "predicate": {"custom_model_data": 320401}, "model": "galaxy:item/weapon/energy_saber/ranbo_off_showcase-2"}
 		
 	]
 }

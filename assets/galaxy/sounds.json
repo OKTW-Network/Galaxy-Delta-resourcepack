@@ -58,19 +58,19 @@
       }
     ]
   },
-  "energy-saber.turn_on": {
+  "energy_saber.turn_on": {
     "sounds": [
 	  {
-        "name": "galaxy:energy-saber/turn_on",
+        "name": "galaxy:energy_saber/turn_on",
 	    "volume": 0.5,
 		"pitch": 1.0
       }
     ]
   },
-  "energy-saber.turn_off": {
+  "energy_saber.turn_off": {
     "sounds": [
 	  {
-        "name": "galaxy:energy-saber/turn_off",
+        "name": "galaxy:energy_saber/turn_off",
 	    "volume": 0.5,
 		"pitch": 1.0
       }

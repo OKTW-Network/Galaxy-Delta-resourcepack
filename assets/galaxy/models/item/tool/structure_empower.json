@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"0": "galaxy:colors",
+		"0": "galaxy:universal/colors",
 		"1": "galaxy:item/structure_empower/blaze",
 		"2": "galaxy:item/structure_empower/glass",
-		"particle": "galaxy:colors"
+		"particle": "galaxy:universal/colors"
 	},
 	"elements": [
 		{
@@ -37,12 +37,12 @@
 			"to": [10.25, 5.25, 4],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6.75, 7.75]},
 			"faces": {
-				"north": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"east": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"south": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"west": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"up": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"down": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"}
+				"north": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"east": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"south": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"west": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"up": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"down": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"}
 			}
 		},
 		{
@@ -88,12 +88,12 @@
 			"to": [10.25, 5.25, 12.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6.75, 8.25]},
 			"faces": {
-				"north": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"east": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"south": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"west": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"up": {"uv": [4.5, 9.5, 5.5, 8.5], "texture": "#0"},
-				"down": {"uv": [4.5, 9.5, 5.5, 8.5], "texture": "#0"}
+				"north": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"east": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"south": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"west": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"up": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"down": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"}
 			}
 		},
 		{
@@ -139,12 +139,12 @@
 			"to": [4, 5.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 6.75, 8]},
 			"faces": {
-				"north": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"east": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"south": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"west": {"uv": [5.5, 8.5, 4.5, 9.5], "texture": "#0"},
-				"up": {"uv": [4.5, 9.5, 5.5, 8.5], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [4.5, 9.5, 5.5, 8.5], "rotation": 270, "texture": "#0"}
+				"north": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"east": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"south": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"west": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"up": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"down": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"}
 			}
 		},
 		{
@@ -190,12 +190,12 @@
 			"to": [12.25, 5.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.25, 6.75, 8]},
 			"faces": {
-				"north": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"east": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"south": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"west": {"uv": [4.5, 8.5, 5.5, 9.5], "texture": "#0"},
-				"up": {"uv": [4.5, 8.5, 5.5, 9.5], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [4.5, 8.5, 5.5, 9.5], "rotation": 270, "texture": "#0"}
+				"north": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"east": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"south": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"west": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"up": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"down": {"uv": [4.5, 0.5, 5.5, 1.5], "texture": "#0"}
 			}
 		},
 		{
@@ -250,7 +250,8 @@
 			"translation": [0, 3.25, 0]
 		},
 		"head": {
-			"translation": [0, 14.5, 0]
+			"translation": [0, -14.665, 0],
+			"scale": [2.2855, 2.2855, 2.2855]
 		},
 		"fixed": {
 			"translation": [0, 3.5, 0],
