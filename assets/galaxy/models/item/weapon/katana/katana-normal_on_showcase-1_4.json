@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench, model design by OKTW team",
+    "parent": "galaxy:item/weapon/katana/katana-normal_on",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -90],
+			"translation": [-17.25, -3.25, 1.5],
+			"scale": [2.75, 2.75, 2.75]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}
