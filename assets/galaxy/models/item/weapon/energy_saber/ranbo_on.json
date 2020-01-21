@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
+    "gui_light": "front",
 	"textures": {
 		"0": "galaxy:universal/colors",
 		"2": "galaxy:item/energy_saber/ranbo_energy",
