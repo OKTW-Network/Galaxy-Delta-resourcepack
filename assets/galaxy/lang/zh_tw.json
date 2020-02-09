@@ -24,18 +24,18 @@
 "tooltip.blank": "",
 "tooltip.configured":"含配置",
 
-"block.galaxy.katana_showcase": "刀架",
+"block.galaxy.katana_display_stand": "刀架",
 
 "block.galaxy.hi_tech_crafting_table": "高科技工作台",
 "block.galaxy.coke_furnace": "焦炭爐",
 "block.galaxy.advanced_blast_furnace": "煉鋼爐",
-"block.galaxy.super_builder-pistol": "手槍生成器",
+"block.galaxy.super_builder-pistol": "超級生成器-槍",
 
 "container.blank": "",
 "container.hi_tech_crafting": "高科技合成",
 "container.coke_furnace": "                焦炭爐",
 "container.advanced_blast_furnace": "                煉鋼爐",
-"container.super_builder-pistol": "生成器 - 手槍",
+"container.super_builder-pistol": "超級生成器-槍",
 
 "gui.blank": "",
 "gui.process.invalid": "無法運作",

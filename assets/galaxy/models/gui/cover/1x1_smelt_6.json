@@ -1,6 +1,6 @@
 {
     "parent": "galaxy:gui/cover/_template-1x1",
     "textures": {
-        "cover": "galaxy:gui/cover_smelt_on"
+        "cover": "galaxy:gui/cover_smelt_6"
     }
 }

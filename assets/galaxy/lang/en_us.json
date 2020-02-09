@@ -24,18 +24,18 @@
 "tooltip.blank": "",
 "tooltip.configured":"configured",
 
-"block.galaxy.katana_showcase": "Katana Showcase",
+"block.galaxy.katana_display_stand": "Katana Display Stand",
 
 "block.galaxy.hi_tech_crafting_table": "Hi-Tech Crafting Table",
 "block.galaxy.coke_furnace": "Coke Furnace",
 "block.galaxy.advanced_blast_furnace": "Advanced Blast Furnace",
-"block.galaxy.super_builder-pistol": "Pistol Super Builder",
+"block.galaxy.super_builder-gun": "Super Builder - Gun",
 
 "container.blank": "",
 "container.hi_tech_crafting": "Hi-Tech Crafting",
 "container.coke_furnace": "            Coke Furnace",
 "container.advanced_blast_furnace": "     Advanced Blast Furnace",
-"container.super_builder-pistol": "Super Builder - Pistol",
+"container.super_builder-gun": "Super Builder - Gun",
 
 "gui.blank": "",
 "gui.process.invalid": "Process Blocked",
