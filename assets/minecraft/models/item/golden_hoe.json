@@ -13,6 +13,18 @@
 		{ "predicate": {"custom_model_data": 10105}, "model": "galaxy:gui/icon/weaponry"},
 		{ "predicate": {"custom_model_data": 10106}, "model": "galaxy:gui/icon/back"},
 		{ "predicate": {"custom_model_data": 10107}, "model": "galaxy:gui/icon/chest"},
+		{ "predicate": {"custom_model_data": 10108}, "model": "galaxy:gui/icon/magic"},
+		{ "predicate": {"custom_model_data": 10109}, "model": "galaxy:gui/icon/damage"},
+		{ "predicate": {"custom_model_data": 10110}, "model": "galaxy:gui/icon/max_distance"},
+		{ "predicate": {"custom_model_data": 10111}, "model": "galaxy:gui/icon/trigger"},
+		{ "predicate": {"custom_model_data": 10112}, "model": "galaxy:gui/icon/max_temperature"},
+		{ "predicate": {"custom_model_data": 10113}, "model": "galaxy:gui/icon/heat"},
+		{ "predicate": {"custom_model_data": 10114}, "model": "galaxy:gui/icon/cooling"},
+		{ "predicate": {"custom_model_data": 10115}, "model": "galaxy:gui/icon/cooling_delay"},
+		{ "predicate": {"custom_model_data": 10116}, "model": "galaxy:gui/icon/bullet"},
+		{ "predicate": {"custom_model_data": 10117}, "model": "galaxy:gui/icon/aim"},
+		{ "predicate": {"custom_model_data": 10118}, "model": "galaxy:gui/icon/storm"},
+		{ "predicate": {"custom_model_data": 10119}, "model": "galaxy:gui/icon/shock"},
         
 		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/icon/katana-exhibition"},
 		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/icon/katana-display"},
@@ -22,18 +34,8 @@
 		{ "predicate": {"custom_model_data": 30102}, "model": "galaxy:block/machine/ht_ct"},
 		{ "predicate": {"custom_model_data": 30103}, "model": "galaxy:block/functional/elevator"},
 		{ "predicate": {"custom_model_data": 30104}, "model": "galaxy:item/weapon/pistol/lasor"},
-		{ "predicate": {"custom_model_data": 30105}, "model": "galaxy:item/tool/wrench"},
+		{ "predicate": {"custom_model_data": 30105}, "model": "galaxy:item/tool/wrench"}
         
-		{ "predicate": {"custom_model_data": 30200}, "model": "galaxy:gui/icon/style"},
-		{ "predicate": {"custom_model_data": 30201}, "model": "galaxy:gui/icon/damage"},
-		{ "predicate": {"custom_model_data": 30202}, "model": "galaxy:gui/icon/max_distance"},
-		{ "predicate": {"custom_model_data": 30203}, "model": "galaxy:gui/icon/firing_delay"},
-		{ "predicate": {"custom_model_data": 30204}, "model": "galaxy:gui/icon/max_temperature"},
-		{ "predicate": {"custom_model_data": 30205}, "model": "galaxy:gui/icon/heat"},
-		{ "predicate": {"custom_model_data": 30206}, "model": "galaxy:gui/icon/cooling"},
-		{ "predicate": {"custom_model_data": 30207}, "model": "galaxy:gui/icon/cooling_delay"},
-		{ "predicate": {"custom_model_data": 30208}, "model": "galaxy:gui/icon/bullet_speed"},
-		{ "predicate": {"custom_model_data": 30209}, "model": "galaxy:gui/icon/bullet_offset"}
 		
 	]
 }
