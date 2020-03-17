@@ -4,7 +4,6 @@
 
 "item.galaxy.wrench": "扳手",
 "item.galaxy.structure_empower": "結構充能工具",
-"item.galaxy.shield_projector": "護盾立場投射裝置",
 
 "item.galaxy.lasor": "柆索",
 
@@ -22,7 +21,7 @@
 "item.galaxy.scabbard": "鞘",
 
 "tooltip.blank": "",
-"tooltip.configured":"狀態已儲存",
+"tooltip.configured":"設定已保存",
 
 "block.galaxy.elevator": "電梯",
 "block.galaxy.katana_display_stand": "刀架",
