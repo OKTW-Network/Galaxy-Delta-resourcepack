@@ -12,7 +12,9 @@
 		{ "predicate": {"custom_model_data": 10203}, "model": "galaxy:gui/button/arrow_right"},
 		{ "predicate": {"custom_model_data": 10300}, "model": "galaxy:gui/button/confirm"},
 		{ "predicate": {"custom_model_data": 10301}, "model": "galaxy:gui/button/refuse"},
-		{ "predicate": {"custom_model_data": 10302}, "model": "galaxy:gui/button/back"},
+		{ "predicate": {"custom_model_data": 10302}, "model": "galaxy:gui/button/back_left"},
+		{ "predicate": {"custom_model_data": 10303}, "model": "galaxy:gui/button/back_right"},
+		{ "predicate": {"custom_model_data": 10304}, "model": "galaxy:gui/button/close_window"},
         
 		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/button/delta"},
 		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/button/unclickable_arrow_up"},

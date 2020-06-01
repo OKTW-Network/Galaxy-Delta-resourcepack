@@ -11,7 +11,7 @@
 		{ "predicate": {"custom_model_data": 10103}, "model": "galaxy:gui/icon/flash"},
 		{ "predicate": {"custom_model_data": 10104}, "model": "galaxy:gui/icon/delta"},
 		{ "predicate": {"custom_model_data": 10105}, "model": "galaxy:gui/icon/weaponry"},
-		{ "predicate": {"custom_model_data": 10106}, "model": "galaxy:gui/icon/back"},
+		{ "predicate": {"custom_model_data": 10106}, "model": "galaxy:gui/icon/close_window"},
 		{ "predicate": {"custom_model_data": 10107}, "model": "galaxy:gui/icon/chest"},
 		{ "predicate": {"custom_model_data": 10108}, "model": "galaxy:gui/icon/magic"},
 		{ "predicate": {"custom_model_data": 10109}, "model": "galaxy:gui/icon/damage"},
@@ -25,6 +25,8 @@
 		{ "predicate": {"custom_model_data": 10117}, "model": "galaxy:gui/icon/aim"},
 		{ "predicate": {"custom_model_data": 10118}, "model": "galaxy:gui/icon/storm"},
 		{ "predicate": {"custom_model_data": 10119}, "model": "galaxy:gui/icon/shock"},
+		{ "predicate": {"custom_model_data": 10120}, "model": "galaxy:gui/icon/back_left"},
+		{ "predicate": {"custom_model_data": 10121}, "model": "galaxy:gui/icon/back_right"},
         
 		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/icon/katana-exhibition"},
 		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/icon/katana-display"},
