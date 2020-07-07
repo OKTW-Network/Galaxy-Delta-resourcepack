@@ -1,9 +1,33 @@
 {
+"type.katana": "武士刀",
+"type.energy_saber": "充能刃",
+"type.pistol": "手槍",
+"type.sniper": "狙擊槍",
+
 "item.galaxy.coke": "焦炭",
 "item.galaxy.steel_ingot": "鋼錠",
 
 "item.galaxy.wrench": "扳手",
 "item.galaxy.structure_empower": "結構充能工具",
+
+"item.galaxy.laser_core.t1": "低階雷射核心",
+"item.galaxy.laser_core.t2": "中階雷射核心",
+"item.galaxy.laser_core.t3": "高階雷射核心",
+"item.galaxy.cooling_system.t1": "低階冷卻系統",
+"item.galaxy.cooling_system.t2": "中階冷卻系統",
+"item.galaxy.cooling_system.t3": "高階冷卻系統",
+"item.galaxy.handle.slime": "史萊姆握把",
+"item.galaxy.handle.wood": "木握把",
+"item.galaxy.handle.obsidian": "黑曜石握把",
+"item.galaxy.casing.gun.gold": "黃金槍械外殼",
+"item.galaxy.casing.gun.iron": "鐵製槍械外殼",
+"item.galaxy.casing.gun.steel": "鋼製槍械外殼",
+"item.galaxy.casing.gun.netherite": "獄髓槍械外殼",
+"item.galaxy.muzzle.pure": "純質槍口",
+"item.galaxy.muzzle.penetrate": "強穿槍口",
+"item.galaxy.muzzle.trace": "追蹤槍口",
+"item.galaxy.barrel.condenser": "聚合槍管",
+"item.galaxy.barrel.scatter": "散射槍管",
 
 "item.galaxy.lasor": "柆索",
 
@@ -21,7 +45,7 @@
 "item.galaxy.scabbard": "鞘",
 
 "tooltip.blank": "",
-"tooltip.configured":"設定已保存",
+"tooltip.super_build": "-訂製化-",
 
 "block.galaxy.elevator": "電梯",
 "block.galaxy.katana_display_stand": "刀架",
@@ -29,13 +53,15 @@
 "block.galaxy.hi_tech_crafting_table": "高科技工作台",
 "block.galaxy.coke_furnace": "焦炭爐",
 "block.galaxy.advanced_blast_furnace": "煉鋼爐",
-"block.galaxy.super_builder-pistol": "超級建造機-槍",
+"block.galaxy.builder-gun": "組裝台-槍械",
+"block.galaxy.super_builder-gun": "訂製機-槍械",
 
 "container.blank": "",
 "container.hi_tech_crafting": "高科技合成",
 "container.coke_furnace": "                焦炭爐",
 "container.advanced_blast_furnace": "                煉鋼爐",
-"container.super_builder-pistol": "超級建造機-槍",
+"container.builder-gun": "組裝台-槍械",
+"container.super_builder-gun": "訂製機-槍械",
 "container.elevator": "",
 
 "gui.blank": "",
@@ -58,7 +84,7 @@
 "attribute.type": "類型",
 "attribute.style": "外觀",
 "attribute.damage": "攻擊傷害",
-"attribute.delay": "攻擊延遲",
+"attribute.delay": "攻擊時間間隔",
 "attribute.distance": "攻擊距離",
 "attribute.max_temperature": "熱容",
 "attribute.heat": "熱堆積",
@@ -68,7 +94,7 @@
 "attribute.projectile.offset": "投射物偏移",
 "attribute.projectile.distance": "投射物距離上限",
 "attribute.projectile.damage": "投射物傷害",
-"attribute.projectile.penetrate_attenuation": "投射物穿透衰減率",
+"attribute.projectile.penetrate_attenuation": "投射物穿透性",
 
 "book.generator.option_prefix": "§7> ",
 "book.generator.option_decrease": "§c-",

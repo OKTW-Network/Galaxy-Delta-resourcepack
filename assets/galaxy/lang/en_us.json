@@ -1,9 +1,33 @@
 {
+"type.katana": "Katana",
+"type.energy_saber": "Energy Saber",
+"type.pistol": "Pistol",
+"type.sniper": "Sniper",
+
 "item.galaxy.coke": "Coke",
 "item.galaxy.steel_ingot": "Steel Ingot",
 
 "item.galaxy.wrench": "Wrench",
 "item.galaxy.structure_empower": "Structure Empower Tool",
+
+"item.galaxy.laser_core.t1": "T1 Laser Core",
+"item.galaxy.laser_core.t2": "T2 Laser Core",
+"item.galaxy.laser_core.t3": "T3 Laser Core",
+"item.galaxy.cooling_system.t1": "T1 Cooling System",
+"item.galaxy.cooling_system.t2": "T2 Cooling System",
+"item.galaxy.cooling_system.t3": "T3 Cooling System",
+"item.galaxy.handle.slime": "Slime Handle",
+"item.galaxy.handle.wood": "Wooden Handle",
+"item.galaxy.handle.obsidian": "Obsidian Handle",
+"item.galaxy.casing.gun.gold": "Golden Gun Casing",
+"item.galaxy.casing.gun.iron": "Iron Gun Casing",
+"item.galaxy.casing.gun.steel": "Steel Gun Casing",
+"item.galaxy.casing.gun.netherite": "Netherite Gun Casing",
+"item.galaxy.muzzle.pure": "Pure Muzzle",
+"item.galaxy.muzzle.penetrate": "Penetrate Muzzle",
+"item.galaxy.muzzle.trace": "Tracing Muzzle",
+"item.galaxy.barrel.condenser": "Condenser Barrel",
+"item.galaxy.barrel.scatter": "Scatter Barrel",
 
 "item.galaxy.lasor": "Lasor",
 
@@ -21,7 +45,7 @@
 "item.galaxy.scabbard": "Scabbard",
 
 "tooltip.blank": "",
-"tooltip.configured":"configured",
+"tooltip.super_build": "-Super build-",
 
 "block.galaxy.elevator": "Elevator",
 "block.galaxy.katana_display_stand": "Katana Display Stand",
@@ -29,12 +53,14 @@
 "block.galaxy.hi_tech_crafting_table": "Hi-Tech Crafting Table",
 "block.galaxy.coke_furnace": "Coke Furnace",
 "block.galaxy.advanced_blast_furnace": "Advanced Blast Furnace",
+"block.galaxy.builder-gun": "Assembling Station - Gun",
 "block.galaxy.super_builder-gun": "Super Builder - Gun",
 
 "container.blank": "",
 "container.hi_tech_crafting": "Hi-Tech Crafting",
 "container.coke_furnace": "            Coke Furnace",
 "container.advanced_blast_furnace": "     Advanced Blast Furnace",
+"container.builder-gun": "Assembling - Gun",
 "container.super_builder-gun": "Super Builder - Gun",
 "container.elevator": "",
 
@@ -58,7 +84,7 @@
 "attribute.type": "Type",
 "attribute.style": "Style",
 "attribute.damage": "Attack Damage",
-"attribute.delay": "Attack Delay",
+"attribute.delay": "Attack Time Interval",
 "attribute.distance": "Attack Distance",
 "attribute.max_temperature": "Heat Capacity",
 "attribute.heat": "Heat",
@@ -66,9 +92,9 @@
 "attribute.colling_delay": "Cooling Delay",
 "attribute.projectile.speed": "Projectile Speed",
 "attribute.projectile.offset": "Projectile Offset",
-"attribute.projectile.distance": "Projectile Distance",
+"attribute.projectile.distance": "Projectile Distance Limit",
 "attribute.projectile.damage": "Projectile Damage",
-"attribute.projectile.penetrate_attenuation": "Projectile Penetrate Attenuation",
+"attribute.projectile.penetrate_attenuation": "Projectile Penetrability",
 
 "book.generator.option_prefix": "§7> ",
 "book.generator.option_decrease": "§c-",

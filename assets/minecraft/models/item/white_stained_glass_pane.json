@@ -18,6 +18,7 @@
 		{ "predicate": {"custom_model_data": 10208}, "model": "galaxy:gui/cover/l"},
 		{ "predicate": {"custom_model_data": 10300}, "model": "galaxy:gui/cover/3x3_big_slot-bottom_right"},
 		{ "predicate": {"custom_model_data": 10301}, "model": "galaxy:gui/cover/3x3_big_slot_card-bottom_right"},
+		{ "predicate": {"custom_model_data": 10400}, "model": "galaxy:gui/cover/3x3_builder_hardware_gun"},
         
 		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/cover/3x1_c"},
         { "predicate": {"custom_model_data": 20101}, "model": "galaxy:gui/cover/2x1_c_up"},

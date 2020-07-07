@@ -1,0 +1,28 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+	"overrides": [
+		
+        { "predicate": {"custom_model_data": 10100}, "model": "galaxy:item/component/casing_gun_gold"},
+        { "predicate": {"custom_model_data": 10101}, "model": "galaxy:item/component/casing_gun_iron"},
+        { "predicate": {"custom_model_data": 10102}, "model": "galaxy:item/component/casing_gun_steel"},
+        { "predicate": {"custom_model_data": 10103}, "model": "galaxy:item/component/casing_gun_netherite"},
+        { "predicate": {"custom_model_data": 10200}, "model": "galaxy:item/component/cooling_system_t1"},
+        { "predicate": {"custom_model_data": 10201}, "model": "galaxy:item/component/cooling_system_t2"},
+        { "predicate": {"custom_model_data": 10202}, "model": "galaxy:item/component/cooling_system_t3"},
+        { "predicate": {"custom_model_data": 10300}, "model": "galaxy:item/component/laser_core_t1"},
+        { "predicate": {"custom_model_data": 10301}, "model": "galaxy:item/component/laser_core_t2"},
+        { "predicate": {"custom_model_data": 10302}, "model": "galaxy:item/component/laser_core_t3"},
+        { "predicate": {"custom_model_data": 10400}, "model": "galaxy:item/component/handle_slime"},
+        { "predicate": {"custom_model_data": 10401}, "model": "galaxy:item/component/handle_wood"},
+        { "predicate": {"custom_model_data": 10402}, "model": "galaxy:item/component/handle_obsidian"},
+        { "predicate": {"custom_model_data": 10500}, "model": "galaxy:item/component/muzzle_pure"},
+        { "predicate": {"custom_model_data": 10501}, "model": "galaxy:item/component/muzzle_penetrate"},
+        { "predicate": {"custom_model_data": 10502}, "model": "galaxy:item/component/muzzle_trace"},
+        { "predicate": {"custom_model_data": 10600}, "model": "galaxy:item/component/barrel_condenser"},
+        { "predicate": {"custom_model_data": 10601}, "model": "galaxy:item/component/barrel_scatter"}
+		
+	]
+}
