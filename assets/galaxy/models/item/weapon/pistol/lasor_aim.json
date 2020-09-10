@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
-    "gui_light": "front",
 	"textures": {
 		"0": "galaxy:universal/colors",
 		"1": "galaxy:universal/portal"
@@ -1342,24 +1341,6 @@
 			}
 		},
 		{
-			"from": [7.675, 10.82321, 12.085],
-			"to": [8.325, 10.87321, 12.125],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8.125, 8.15, 8]},
-			"faces": {
-				"north": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"},
-				"south": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [7.675, 11.82321, 12.085],
-			"to": [8.325, 11.87321, 12.125],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8.125, 8.15, 8]},
-			"faces": {
-				"north": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"},
-				"south": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"}
-			}
-		},
-		{
 			"from": [8.475, 11.02321, 12.085],
 			"to": [8.525, 11.67321, 12.125],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8.125, 8.15, 8]},
@@ -1394,26 +1375,9 @@
 				"north": {"uv": [2.5, 8.5, 3.5, 9.5], "texture": "#0"},
 				"south": {"uv": [3.5, 8.5, 2.5, 9.5], "texture": "#0"}
 			}
-		},
-		{
-			"from": [7.825, 11.62321, 12.1],
-			"to": [8.175, 11.67321, 12.11],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8.125, 8.15, 8]},
-			"faces": {
-				"north": {"uv": [2.5, 8.5, 3.5, 9.5], "texture": "#0"},
-				"south": {"uv": [3.5, 8.5, 2.5, 9.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [7.825, 11.02321, 12.1],
-			"to": [8.175, 11.07321, 12.11],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8.125, 8.15, 8]},
-			"faces": {
-				"north": {"uv": [2.5, 8.5, 3.5, 9.5], "texture": "#0"},
-				"south": {"uv": [3.5, 8.5, 2.5, 9.5], "texture": "#0"}
-			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 0.625, -0.125],
@@ -1507,7 +1471,7 @@
 						{
 							"name": "bottom",
 							"origin": [8, 8, 8],
-							"children": [103, 104, 105, 106, 107, 108, 109, 110]
+							"children": [103, 104, 105, 106]
 						}
 					]
 				}

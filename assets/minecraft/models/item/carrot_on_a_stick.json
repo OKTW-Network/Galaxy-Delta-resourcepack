@@ -129,6 +129,8 @@
         { "predicate": {"custom_model_data": 210100}, "model": "galaxy:item/weapon/pistol/lasor"},
         { "predicate": {"custom_model_data": 210101}, "model": "galaxy:item/weapon/pistol/lasor_aim"},
         { "predicate": {"custom_model_data": 210102}, "model": "galaxy:item/weapon/pistol/lasor_dual_aim"},
+        { "predicate": {"custom_model_data": 220100}, "model": "galaxy:item/weapon/pistol/sniper"},
+        { "predicate": {"custom_model_data": 230100}, "model": "galaxy:item/weapon/pistol/shotgun"},
 
 		{ "predicate": {"custom_model_data": 310100}, "model": "galaxy:item/weapon/energy_saber/plasum_display"},
 		{ "predicate": {"custom_model_data": 310200}, "model": "galaxy:item/weapon/energy_saber/plasum_off"},
