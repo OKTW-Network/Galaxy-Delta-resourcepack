@@ -32,7 +32,7 @@
 		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/icon/katana-display"},
         
 		{ "predicate": {"custom_model_data": 30100}, "model": "galaxy:gui/icon/all"},
-		{ "predicate": {"custom_model_data": 30101}, "model": "galaxy:item/material/steel_ingot"},
+		{ "predicate": {"custom_model_data": 30101}, "model": "galaxy:item/component/laser_core_t1"},
 		{ "predicate": {"custom_model_data": 30102}, "model": "galaxy:block/machine/ht_ct"},
 		{ "predicate": {"custom_model_data": 30103}, "model": "galaxy:block/functional/elevator"},
 		{ "predicate": {"custom_model_data": 30104}, "model": "galaxy:item/weapon/pistol/lasor"},
