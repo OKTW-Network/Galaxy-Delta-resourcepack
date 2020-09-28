@@ -126,12 +126,13 @@
 "attribute.cooling_delay": "Cooling Delay",
 "attribute.aim_zoom": "Zoom",
 "attribute.projectile.speed": "Speed",
-"attribute.projectile.offset": "Accuracy Offset",
+"attribute.projectile.offset": "Offset",
 "attribute.projectile.distance": "Range",
 "attribute.projectile.damage": "Damage",
 "attribute.projectile.penetrate": "Penetrate",
 "attribute.projectile.trace": "Trace",
 "attribute.projectile.extra": "Extra",
+"attribute.projectile.color": "Color",
 
 "attribute.mode.sync": "Sync",
 

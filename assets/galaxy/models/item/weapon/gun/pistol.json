@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
-    "gui_light": "front",
 	"textures": {
 		"0": "galaxy:universal/colors",
 		"1": "galaxy:universal/portal"
@@ -722,9 +721,9 @@
 			}
 		},
 		{
-			"from": [6.87524, 11.6881, 9.39174],
-			"to": [9.12524, 11.9881, 9.54174],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8.12524, 7.93989, 8.07674], "rescale": true},
+			"from": [6.875, 11.6881, 9.39174],
+			"to": [9.125, 11.9881, 9.54174],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8.125, 7.93989, 8.07674], "rescale": true},
 			"faces": {
 				"north": {"uv": [8.5, 4.5, 9.5, 5.5], "texture": "#0"},
 				"east": {"uv": [8.5, 4.5, 9.5, 5.5], "texture": "#0"},
@@ -774,9 +773,9 @@
 			}
 		},
 		{
-			"from": [6.87428, 10.71362, 7.96715],
-			"to": [9.12428, 10.86362, 8.26715],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8.12428, 8.19041, 7.77715], "rescale": true},
+			"from": [6.875, 10.71362, 7.96715],
+			"to": [9.125, 10.86362, 8.26715],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8.125, 8.19041, 7.77715], "rescale": true},
 			"faces": {
 				"north": {"uv": [8.5, 4.5, 9.5, 5.5], "texture": "#0"},
 				"east": {"uv": [8.5, 4.5, 9.5, 5.5], "texture": "#0"},
@@ -1333,6 +1332,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 0.625, -0.125],
