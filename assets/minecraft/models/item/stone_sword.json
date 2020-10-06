@@ -42,7 +42,9 @@
         { "predicate": {"custom_model_data": 10716}, "model": "galaxy:item/component/color_lens_rainbow"},
         { "predicate": {"custom_model_data": 10800}, "model": "galaxy:item/component/sight_clear"},
         { "predicate": {"custom_model_data": 10801}, "model": "galaxy:item/component/sight_scope"},
-        { "predicate": {"custom_model_data": 10900}, "model": "galaxy:item/component/trigger_sync"}
+        { "predicate": {"custom_model_data": 10900}, "model": "galaxy:item/component/trigger_sync"},
+        
+        { "predicate": {"custom_model_data": 20100}, "model": "galaxy:item/weapon/gun/railgun"}
 		
 	]
 }

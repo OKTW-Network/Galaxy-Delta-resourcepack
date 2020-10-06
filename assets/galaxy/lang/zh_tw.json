@@ -57,7 +57,9 @@
 "item.galaxy.color_lens.yellow": "黃色透鏡",
 "item.galaxy.color_lens.rainbow": "虹彩透鏡",
 "item.galaxy.trigger": "扳機",
-"item.galaxy.trigger.dual": "雙重",
+"item.galaxy.trigger.dual": "雙重扳機",
+"item.galaxy.cosmetic": "外觀",
+"item.galaxy.cosmetic.gun.type2.1": "電磁砲外觀",
 
 "item.galaxy.lasor": "柆索",
 
@@ -116,10 +118,9 @@
 "modifier.component": "組件",
 
 "attribute.type": "類型",
-"attribute.style": "風格",
-"attribute.cosmetic": "造型",
+"attribute.cosmetic": "外觀造型",
 "attribute.mode": "模式",
-"attribute.delay": "延遲",
+"attribute.delay": "攻擊延遲",
 "attribute.distance": "攻擊距離",
 "attribute.max_temperature": "耐熱",
 "attribute.heat": "積熱",
@@ -137,7 +138,7 @@
 
 "attribute.mode.dual": "雙重",
 
-"style.galaxy.railgun": "磁軌砲",
+"cosmetic.galaxy.railgun": "磁軌砲",
 
 "color.galaxy.rainbow": "彩虹",
 
