@@ -57,7 +57,7 @@
 "item.galaxy.color_lens.yellow": "Yellow Lens",
 "item.galaxy.color_lens.rainbow": "Rainbow Lens",
 "item.galaxy.trigger": "Trigger",
-"item.galaxy.trigger.sync": "Sync Trigger",
+"item.galaxy.trigger.dual": "Dual Trigger",
 
 "item.galaxy.lasor": "Lasor",
 
@@ -117,6 +117,7 @@
 
 "attribute.type": "Type",
 "attribute.style": "Style",
+"attribute.cosmetic": "Cosmetic",
 "attribute.mode": "Mode",
 "attribute.delay": "Delay",
 "attribute.distance": "Attack Distance",
@@ -134,7 +135,11 @@
 "attribute.projectile.extra": "Extra",
 "attribute.projectile.color": "Color",
 
-"attribute.mode.sync": "Sync",
+"attribute.mode.dual": "Dual",
+
+"style.galaxy.railgun": "Railgun",
+
+"color.galaxy.rainbow": "Rainbow",
 
 "book.generator.option_prefix": "§7> ",
 "book.generator.option_decrease": "§c-",
