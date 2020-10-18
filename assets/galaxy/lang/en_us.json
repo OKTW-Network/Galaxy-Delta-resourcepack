@@ -56,8 +56,8 @@
 "item.galaxy.color_lens.white": "White Lens",
 "item.galaxy.color_lens.yellow": "Yellow Lens",
 "item.galaxy.color_lens.rainbow": "Rainbow Lens",
-"item.galaxy.trigger": "Trigger",
-"item.galaxy.trigger.dual": "Dual Trigger",
+"item.galaxy.addon": "Addon",
+"item.galaxy.addon.dual": "Dual Addon",
 "item.galaxy.cosmetic": "Cosmetic",
 "item.galaxy.cosmetic.gun.type2.1": "Railgun Cosmetic",
 
@@ -117,9 +117,10 @@
 
 "modifier.component": "Component",
 
+"attribute.mode": "Mode",
 "attribute.type": "Type",
 "attribute.cosmetic": "Cosmetic",
-"attribute.mode": "Mode",
+"attribute.addon": "Addon",
 "attribute.delay": "Attack Delay",
 "attribute.distance": "Attack Distance",
 "attribute.max_temperature": "Heat Resistant",
@@ -136,7 +137,7 @@
 "attribute.projectile.extra": "Extra",
 "attribute.projectile.color": "Color",
 
-"attribute.mode.dual": "Dual",
+"attribute.addon.dual": "Dual",
 
 "cosmetic.galaxy.railgun": "Railgun",
 

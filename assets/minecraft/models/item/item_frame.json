@@ -8,19 +8,20 @@
 		{ "predicate": {"custom_model_data": 100}, "model": "galaxy:block/blank"},
         
 		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/machine/ht_ct"},
-        { "predicate": {"custom_model_data": 10200}, "model": "galaxy:block/machine/coke_furnace"},
-        { "predicate": {"custom_model_data": 10201}, "model": "galaxy:block/machine/coke_furnace_smelting"},
-        { "predicate": {"custom_model_data": 10300}, "model": "galaxy:block/machine/advanced_blast_furnace"},
-        { "predicate": {"custom_model_data": 10301}, "model": "galaxy:block/machine/advanced_blast_furnace_smelting"},
+    { "predicate": {"custom_model_data": 10200}, "model": "galaxy:block/machine/coke_furnace"},
+    { "predicate": {"custom_model_data": 10201}, "model": "galaxy:block/machine/coke_furnace_smelting"},
+    { "predicate": {"custom_model_data": 10300}, "model": "galaxy:block/machine/advanced_blast_furnace"},
+    { "predicate": {"custom_model_data": 10301}, "model": "galaxy:block/machine/advanced_blast_furnace_smelting"},
 		{ "predicate": {"custom_model_data": 10400}, "model": "galaxy:block/machine/super_builder-pistol"},
         
-        { "predicate": {"custom_model_data": 20100}, "model": "galaxy:block/functional/elevator"},
-        { "predicate": {"custom_model_data": 20200}, "model": "galaxy:block/functional/katana_showcase-1"},
-        { "predicate": {"custom_model_data": 20201}, "model": "galaxy:block/functional/katana_showcase-2"},
-        { "predicate": {"custom_model_data": 20202}, "model": "galaxy:block/functional/katana_showcase-3"},
-        { "predicate": {"custom_model_data": 20203}, "model": "galaxy:block/functional/katana_showcase-4"},
+    { "predicate": {"custom_model_data": 20100}, "model": "galaxy:block/functional/elevator"},
+    { "predicate": {"custom_model_data": 20200}, "model": "galaxy:block/functional/katana_showcase-1"},
+    { "predicate": {"custom_model_data": 20201}, "model": "galaxy:block/functional/katana_showcase-2"},
+    { "predicate": {"custom_model_data": 20202}, "model": "galaxy:block/functional/katana_showcase-3"},
+    { "predicate": {"custom_model_data": 20203}, "model": "galaxy:block/functional/katana_showcase-4"},
         
-        { "predicate": {"custom_model_data": 30100}, "model": "galaxy:item/tool/structure_empower"}
+    { "predicate": {"custom_model_data": 30100}, "model": "galaxy:item/tool/wrench"},
+    { "predicate": {"custom_model_data": 30200}, "model": "galaxy:item/tool/structure_empower"}
 		
 	]
 }
