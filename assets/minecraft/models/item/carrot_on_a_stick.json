@@ -5,7 +5,8 @@
     },
 	"overrides": [
 		
-    { "predicate": {"custom_model_data": 100}, "model": "galaxy:item/blank"},
+    { "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"},
+    
 		{ "predicate": {"custom_model_data": 110100}, "model": "galaxy:item/weapon/katana/katana-normal_display"},
 		{ "predicate": {"custom_model_data": 110200}, "model": "galaxy:item/weapon/katana/katana-normal_off"},
 		{ "predicate": {"custom_model_data": 110201}, "model": "galaxy:item/weapon/katana/katana-normal_on"},

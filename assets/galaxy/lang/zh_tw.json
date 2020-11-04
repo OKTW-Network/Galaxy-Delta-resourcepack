@@ -9,7 +9,7 @@
 "item.galaxy.steel_ingot": "鋼錠",
 
 "item.galaxy.wrench": "扳手",
-"item.galaxy.structure_empower": "注能透鏡",
+"item.galaxy.empower_lens": "注能透鏡",
 
 "item.galaxy.laser_core": "雷射核心",
 "item.galaxy.laser_core.t1": "低階雷射核心",
@@ -80,21 +80,21 @@
 "tooltip.any_type": "任何種類",
 "tooltip.super_build": "-訂製化-",
 
-"block.galaxy.elevator": "電梯",
-"block.galaxy.katana_display_stand": "刀架",
+"entity.galaxy.katana_display_stand": "刀架",
 
 "block.galaxy.hi_tech_crafting_table": "高科技工作台",
 "block.galaxy.coke_furnace": "焦炭爐",
 "block.galaxy.advanced_blast_furnace": "煉鋼爐",
 "block.galaxy.builder-gun": "組裝台-槍械",
 "block.galaxy.super_builder-gun": "訂製機-槍械",
+"block.galaxy.elevator": "電梯",
 
 "container.blank": "",
 "container.hi_tech_crafting": "高科技合成",
 "container.coke_furnace": "                焦炭爐",
 "container.advanced_blast_furnace": "                煉鋼爐",
-"container.builder-gun": "組裝台-槍械",
-"container.super_builder-gun": "訂製機-槍械",
+"container.builder-gun": "組裝台 - 槍械",
+"container.super_builder-gun": "訂製機 - 槍械",
 "container.elevator": "",
 
 "gui.blank": "",
@@ -142,11 +142,6 @@
 "cosmetic.galaxy.railgun": "磁軌砲",
 
 "color.galaxy.rainbow": "彩虹",
-
-"book.generator.option_prefix": "§7> ",
-"book.generator.option_decrease": "§c-",
-"book.generator.option_increase": "§2+",
-"book.generator.generate": "      §3[Generate]",
 
 "status_effect.stun": "暈眩",
 

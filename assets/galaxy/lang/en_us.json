@@ -9,7 +9,7 @@
 "item.galaxy.steel_ingot": "Steel Ingot",
 
 "item.galaxy.wrench": "Wrench",
-"item.galaxy.structure_empower": "Empower Lens",
+"item.galaxy.empower_lens": "Empower Lens",
 
 "item.galaxy.laser_core": "Laser Core",
 "item.galaxy.laser_core.t1": "T1 Laser Core",
@@ -80,14 +80,14 @@
 "tooltip.any_type": "Any Type",
 "tooltip.super_build": "-Customized-",
 
-"block.galaxy.elevator": "Elevator",
-"block.galaxy.katana_display_stand": "Katana Display Stand",
+"entity.galaxy.katana_display_stand": "Katana Display Stand",
 
 "block.galaxy.hi_tech_crafting_table": "Hi-Tech Crafting Table",
 "block.galaxy.coke_furnace": "Coke Furnace",
 "block.galaxy.advanced_blast_furnace": "Advanced Blast Furnace",
 "block.galaxy.builder-gun": "Assembling Station - Gun",
 "block.galaxy.super_builder-gun": "Super Builder - Gun",
+"block.galaxy.elevator": "Elevator",
 
 "container.blank": "",
 "container.hi_tech_crafting": "Hi-Tech Crafting",
@@ -142,11 +142,6 @@
 "cosmetic.galaxy.railgun": "Railgun",
 
 "color.galaxy.rainbow": "Rainbow",
-
-"book.generator.option_prefix": "§7> ",
-"book.generator.option_decrease": "§c-",
-"book.generator.option_increase": "§2+",
-"book.generator.generate": "       §3[Generate]",
 
 "status_effect.stun": "Stun",
 
