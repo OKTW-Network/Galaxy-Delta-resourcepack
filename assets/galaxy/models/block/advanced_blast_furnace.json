@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench, model design by OKTW team",
     "gui_light": "side",
 	"textures": {
-		"0": "galaxy:block/machine/advanced_blast_furnace_top",
-		"1": "galaxy:block/machine/advanced_blast_furnace_side",
-		"2": "galaxy:block/machine/advanced_blast_furnace_front",
-		"particle": "galaxy:block/machine/advanced_blast_furnace_top"
+		"0": "galaxy:block/advanced_blast_furnace_top",
+		"1": "galaxy:block/advanced_blast_furnace_side",
+		"2": "galaxy:block/advanced_blast_furnace_front",
+		"particle": "galaxy:block/advanced_blast_furnace_top"
 	},
 	"elements": [
 		{

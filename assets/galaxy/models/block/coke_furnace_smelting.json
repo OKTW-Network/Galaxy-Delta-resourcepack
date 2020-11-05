@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench, model design by OKTW team",
     "gui_light": "side",
 	"textures": {
-		"0": "galaxy:block/machine/coke_furnace_top",
-		"1": "galaxy:block/machine/coke_furnace_side",
-		"3": "galaxy:block/machine/coke_furnace_front_on",
-		"particle": "galaxy:block/machine/coke_furnace_top"
+		"0": "galaxy:block/coke_furnace_top",
+		"1": "galaxy:block/coke_furnace_side",
+		"3": "galaxy:block/coke_furnace_front_on",
+		"particle": "galaxy:block/coke_furnace_top"
 	},
 	"elements": [
 		{

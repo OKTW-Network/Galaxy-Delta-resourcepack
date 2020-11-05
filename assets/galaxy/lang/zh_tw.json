@@ -78,23 +78,23 @@
 
 "tooltip.blank": "",
 "tooltip.any_type": "任何種類",
-"tooltip.super_build": "-訂製化-",
+"tooltip.super_build": "-客製化-",
 
 "entity.galaxy.katana_display_stand": "刀架",
 
 "block.galaxy.hi_tech_crafting_table": "高科技工作台",
 "block.galaxy.coke_furnace": "焦炭爐",
 "block.galaxy.advanced_blast_furnace": "煉鋼爐",
-"block.galaxy.builder-gun": "組裝台-槍械",
-"block.galaxy.super_builder-gun": "訂製機-槍械",
+"block.galaxy.assembly_table": "組裝台",
+"block.galaxy.super_assembler": "超級組裝機",
 "block.galaxy.elevator": "電梯",
 
 "container.blank": "",
 "container.hi_tech_crafting": "高科技合成",
 "container.coke_furnace": "                焦炭爐",
 "container.advanced_blast_furnace": "                煉鋼爐",
-"container.builder-gun": "組裝台 - 槍械",
-"container.super_builder-gun": "訂製機 - 槍械",
+"container.assembly_table": "組裝",
+"container.super_assembler": "客製化",
 "container.elevator": "",
 
 "gui.blank": "",
@@ -109,8 +109,8 @@
 "gui.next.category": "下個分類",
 "gui.htct.all": "全部",
 "gui.htct.component": "組件",
-"gui.htct.machine": "機器",
 "gui.htct.functional_block": "功能方塊",
+"gui.htct.interactive_block": "互動方塊",
 "gui.htct.weapon": "武器",
 "gui.htct.tool": "工具",
 "gui.htct.returnToList": "回到列表",
