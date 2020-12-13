@@ -2356,12 +2356,12 @@
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
-			"translation": [-8.9598, 6.444, -35],
-			"scale": [4, 4, 4]
+			"translation": [-8.968, 6.444, 8.5],
+			"scale": [4, 4, 0.01]
 		},
 		"firstperson_lefthand": {
-			"translation": [-8.9598, 6.444, -35],
-			"scale": [4, 4, 4]
+			"translation": [-8.968, 6.444, 8.5],
+			"scale": [4, 4, 0.01]
 		},
 		"ground": {
 			"rotation": [0, 0, -90],
