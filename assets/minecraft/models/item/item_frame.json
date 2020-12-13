@@ -22,7 +22,8 @@
     { "predicate": {"custom_model_data": 20103}, "model": "galaxy:entity/katana_showcase-4"},
         
     { "predicate": {"custom_model_data": 30100}, "model": "galaxy:item/tool/wrench"},
-    { "predicate": {"custom_model_data": 30200}, "model": "galaxy:item/tool/structure_empower"}
+    { "predicate": {"custom_model_data": 30200}, "model": "galaxy:item/tool/crowbar"},
+    { "predicate": {"custom_model_data": 30300}, "model": "galaxy:item/tool/structure_empower"}
 		
 	]
 }
