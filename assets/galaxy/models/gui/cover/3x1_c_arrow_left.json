@@ -1,6 +1,6 @@
 {
-    "parent": "galaxy:gui/cover/_template-3x1",
+    "parent": "galaxy:gui/cover/_template-3x1_mirrored",
     "textures": {
-        "cover": "galaxy:gui/cover_3x1_c_arrow_left"
+        "cover": "galaxy:gui/cover_3x1_c_arrow"
     }
 }

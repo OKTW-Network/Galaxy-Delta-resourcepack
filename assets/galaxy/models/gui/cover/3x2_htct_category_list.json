@@ -1,0 +1,13 @@
+{
+	"parent": "galaxy:gui/cover/_template-3x3_qbr",
+	"textures": {
+		"cover": "galaxy:gui/cover_htct_category_list"
+	},
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-18, 18, 20],
+			"scale": [3, 0.5, 3]
+		}
+	}
+}

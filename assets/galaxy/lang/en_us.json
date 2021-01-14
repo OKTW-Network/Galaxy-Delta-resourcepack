@@ -68,13 +68,9 @@
 "item.galaxy.ranbo": "Supium -Ranbo-",
 
 "item.galaxy.katana": "Katana",
-"item.galaxy.katana.lore": "",
-"item.galaxy.nazo": "Technoly -Nazo-",
-"item.galaxy.nazo.lore": "",
+"item.galaxy.nazo": "Neon -Nazo-",
 "item.slashedge.hikana": "Phantom maze -Hinokage-",
-"item.slashedge.hikana.lore": "",
 "item.slashedge.denkomaru": "Denkomaru",
-"item.slashedge.denkomaru.lore": "",
 "item.galaxy.scabbard": "Scabbard",
 
 "tooltip.blank": "",
@@ -129,6 +125,7 @@
 "attribute.cooling": "Cooling",
 "attribute.cooling_delay": "Cooling Delay",
 "attribute.aim_zoom": "Zoom",
+"attribute.accelerate": "Accelerate",
 "attribute.projectile.speed": "Speed",
 "attribute.projectile.offset": "Offset",
 "attribute.projectile.distance": "Range",
@@ -192,10 +189,10 @@
 "advancements.weaponry.katana_act_basic.description": "§7Hold katana in your off-hand.",
 "advancements.weaponry.katana_act_swap.title": "Draw/Store       ",
 "advancements.weaponry.katana_act_swap.description": "§b[Use] §awhile sneaking    §7Draw or store katana from the scabbard.",
-"advancements.weaponry.katana_act_stun.title": "Stun      ",
-"advancements.weaponry.katana_act_stun.description": "§6[When Drawed]  §b[Use]        §7Stun targets in front of you",
+"advancements.weaponry.katana_act_stun.title": "Stun       ",
+"advancements.weaponry.katana_act_stun.description": "§6[When Drawed] §b[Use]         §7Stun targets in front of you",
 "advancements.weaponry.katana_act_flash.title": "Flash                              ",
 "advancements.weaponry.katana_act_flash.description": "§6[When Drawed] §astore back quickly  §7Flash forward and damage the targets on the path.",
 "advancements.weaponry.katana_act_shock.title": "Shock                ",
-"advancements.weaponry.katana_act_shock.description": "§6[When Drawed]              §b[Use] §awhile in the air and facing the ground   §7Smashing the ground and damage the targets within range."
+"advancements.weaponry.katana_act_shock.description": "§6[When Drawed]             §b[Use] §awhile in the air and facing the ground   §7Smashing the ground and damage the targets within range."
 }
