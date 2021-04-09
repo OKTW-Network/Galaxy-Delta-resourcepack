@@ -59,7 +59,13 @@
 "item.galaxy.color_lens.yellow": "黃色透鏡",
 "item.galaxy.color_lens.rainbow": "虹彩透鏡",
 "item.galaxy.addon": "附件",
-"item.galaxy.addon.dual": "雙重附件",
+"item.galaxy.addon.bounce": "彈跳",
+"item.galaxy.addon.marking": "標記",
+"item.galaxy.addon.cooler": "冷血",
+"item.galaxy.special": "特殊",
+"item.galaxy.special.dual": "雙重連結",
+"item.galaxy.special.hold": "持能扳機",
+"item.galaxy.special.sequence": "序列控制",
 "item.galaxy.cosmetic": "外觀",
 "item.galaxy.cosmetic.gun.type2.railgun": "磁軌槍外觀",
 
@@ -135,6 +141,11 @@
 "attribute.projectile.trace": "追蹤",
 "attribute.projectile.extra": "複量",
 "attribute.projectile.color": "顏色",
+"attribute.flash.damage": "閃瞬傷害",
+"attribute.flash.distance": "閃瞬距離",
+"attribute.flash.charge": "閃瞬充能",
+"attribute.stun.damage": "擊暈傷害",
+"attribute.stun.duration": "擊暈時長",
 
 "attribute.addon.dual": "雙重",
 

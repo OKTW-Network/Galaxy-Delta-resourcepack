@@ -59,7 +59,13 @@
 "item.galaxy.color_lens.yellow": "Yellow Lens",
 "item.galaxy.color_lens.rainbow": "Rainbow Lens",
 "item.galaxy.addon": "Addon",
-"item.galaxy.addon.dual": "Dual Addon",
+"item.galaxy.addon.bounce": "Bounce",
+"item.galaxy.addon.marking": "Marking",
+"item.galaxy.addon.cooler": "Cold-Blooded",
+"item.galaxy.special": "Special",
+"item.galaxy.special.dual": "Dual Connector",
+"item.galaxy.special.hold": "Holding Trigger",
+"item.galaxy.special.sequence": "Sequence Controller",
 "item.galaxy.cosmetic": "Cosmetic",
 "item.galaxy.cosmetic.gun.type2.railgun": "Railgun Cosmetic",
 
@@ -135,6 +141,11 @@
 "attribute.projectile.trace": "Trace",
 "attribute.projectile.extra": "Extra",
 "attribute.projectile.color": "Color",
+"attribute.flash.damage": "Flash Damage",
+"attribute.flash.distance": "Flash Distance",
+"attribute.flash.charge": "Flash Charge",
+"attribute.stun.damage": "Stun Damage",
+"attribute.stun.duration": "Stun Duration",
 
 "attribute.addon.dual": "Dual",
 
