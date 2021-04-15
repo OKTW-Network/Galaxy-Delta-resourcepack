@@ -19,7 +19,7 @@
         { "predicate": {"custom_model_data": 10401}, "model": "galaxy:item/component/handle_wood"},
         { "predicate": {"custom_model_data": 10402}, "model": "galaxy:item/component/handle_obsidian"},
         { "predicate": {"custom_model_data": 10500}, "model": "galaxy:item/component/barrel_pure"},
-        { "predicate": {"custom_model_data": 10501}, "model": "galaxy:item/component/barrel_penetrate"},
+        { "predicate": {"custom_model_data": 10501}, "model": "galaxy:item/component/barrel_bounce"},
         { "predicate": {"custom_model_data": 10502}, "model": "galaxy:item/component/barrel_trace"},
         { "predicate": {"custom_model_data": 10600}, "model": "galaxy:item/component/barrel_condenser"},
         { "predicate": {"custom_model_data": 10601}, "model": "galaxy:item/component/barrel_scatter"},
@@ -42,7 +42,9 @@
         { "predicate": {"custom_model_data": 10716}, "model": "galaxy:item/component/color_lens_rainbow"},
         { "predicate": {"custom_model_data": 10800}, "model": "galaxy:item/component/sight_clear"},
         { "predicate": {"custom_model_data": 10801}, "model": "galaxy:item/component/sight_scope"},
-        { "predicate": {"custom_model_data": 10900}, "model": "galaxy:item/component/trigger_sync"},
+        { "predicate": {"custom_model_data": 10900}, "model": "galaxy:item/component/special_dual"},
+        { "predicate": {"custom_model_data": 10901}, "model": "galaxy:item/component/special_flow"},
+        { "predicate": {"custom_model_data": 10902}, "model": "galaxy:item/component/special_sequence"},
         
         { "predicate": {"custom_model_data": 20100}, "model": "galaxy:item/weapon/gun/railgun"}
 		

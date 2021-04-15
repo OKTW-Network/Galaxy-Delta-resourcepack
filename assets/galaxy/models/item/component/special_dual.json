@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "galaxy:item/trigger_sync"
+        "layer0": "galaxy:item/special_dual"
     }
 }
