@@ -1,27 +1,27 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "block/gray_stained_glass"
-    },
-	"overrides": [
-		
-		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:gui/button/delta"},
-		{ "predicate": {"custom_model_data": 10200}, "model": "galaxy:gui/button/arrow_up"},
-		{ "predicate": {"custom_model_data": 10201}, "model": "galaxy:gui/button/arrow_down"},
-		{ "predicate": {"custom_model_data": 10202}, "model": "galaxy:gui/button/arrow_left"},
-		{ "predicate": {"custom_model_data": 10203}, "model": "galaxy:gui/button/arrow_right"},
-		{ "predicate": {"custom_model_data": 10300}, "model": "galaxy:gui/button/confirm"},
-		{ "predicate": {"custom_model_data": 10301}, "model": "galaxy:gui/button/refuse"},
-		{ "predicate": {"custom_model_data": 10302}, "model": "galaxy:gui/button/back_left"},
-		{ "predicate": {"custom_model_data": 10303}, "model": "galaxy:gui/button/back_right"},
-		{ "predicate": {"custom_model_data": 10304}, "model": "galaxy:gui/button/close_window"},
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "block/gray_stained_glass"
+  },
+  "overrides": [
+    
+    { "predicate": {"custom_model_data": 10100}, "model": "galaxy:gui/button/delta"},
+    { "predicate": {"custom_model_data": 10200}, "model": "galaxy:gui/button/arrow_up"},
+    { "predicate": {"custom_model_data": 10201}, "model": "galaxy:gui/button/arrow_down"},
+    { "predicate": {"custom_model_data": 10202}, "model": "galaxy:gui/button/arrow_left"},
+    { "predicate": {"custom_model_data": 10203}, "model": "galaxy:gui/button/arrow_right"},
+    { "predicate": {"custom_model_data": 10300}, "model": "galaxy:gui/button/confirm"},
+    { "predicate": {"custom_model_data": 10301}, "model": "galaxy:gui/button/refuse"},
+    { "predicate": {"custom_model_data": 10302}, "model": "galaxy:gui/button/back_left"},
+    { "predicate": {"custom_model_data": 10303}, "model": "galaxy:gui/button/back_right"},
+    { "predicate": {"custom_model_data": 10304}, "model": "galaxy:gui/button/close_window"},
         
-		{ "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/button/delta"},
-		{ "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/button/unclickable_arrow_up"},
-		{ "predicate": {"custom_model_data": 20201}, "model": "galaxy:gui/button/unclickable_arrow_down"},
-		{ "predicate": {"custom_model_data": 20202}, "model": "galaxy:gui/button/unclickable_arrow_left"},
-		{ "predicate": {"custom_model_data": 20203}, "model": "galaxy:gui/button/unclickable_arrow_right"},
-		{ "predicate": {"custom_model_data": 20303}, "model": "galaxy:gui/button/unclickable_confirm"}
-		
-	]
+    { "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/button/delta"},
+    { "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/button/unclickable_arrow_up"},
+    { "predicate": {"custom_model_data": 20201}, "model": "galaxy:gui/button/unclickable_arrow_down"},
+    { "predicate": {"custom_model_data": 20202}, "model": "galaxy:gui/button/unclickable_arrow_left"},
+    { "predicate": {"custom_model_data": 20203}, "model": "galaxy:gui/button/unclickable_arrow_right"},
+    { "predicate": {"custom_model_data": 20303}, "model": "galaxy:gui/button/unclickable_confirm"}
+    
+  ]
 }

@@ -1,9 +1,9 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/diamond_sword"
-    },
-	"overrides": [
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+  "overrides": [
     { "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"}
-	]
+  ]
 }

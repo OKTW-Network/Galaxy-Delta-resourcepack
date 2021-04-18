@@ -1,18 +1,18 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/item_frame"
-    },
-	"overrides": [
-		
-		{ "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"},
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+  },
+  "overrides": [
+    
+    { "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"},
         
-		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/ht_ct"},
+    { "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/ht_ct"},
     { "predicate": {"custom_model_data": 10200}, "model": "galaxy:block/coke_furnace"},
     { "predicate": {"custom_model_data": 10201}, "model": "galaxy:block/coke_furnace_smelting"},
     { "predicate": {"custom_model_data": 10300}, "model": "galaxy:block/advanced_blast_furnace"},
     { "predicate": {"custom_model_data": 10301}, "model": "galaxy:block/advanced_blast_furnace_smelting"},
-		{ "predicate": {"custom_model_data": 10400}, "model": "galaxy:block/assembly_table"},
+    { "predicate": {"custom_model_data": 10400}, "model": "galaxy:block/assembly_table"},
     { "predicate": {"custom_model_data": 10401}, "model": "galaxy:block/super_assembler"},
     { "predicate": {"custom_model_data": 10500}, "model": "galaxy:block/elevator"},
     
@@ -24,6 +24,6 @@
     { "predicate": {"custom_model_data": 30100}, "model": "galaxy:item/tool/wrench"},
     { "predicate": {"custom_model_data": 30200}, "model": "galaxy:item/tool/crowbar"},
     { "predicate": {"custom_model_data": 30300}, "model": "galaxy:item/tool/structure_empower"}
-		
-	]
+    
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/stick"
-    },
-	"overrides": [
-		
-		{ "predicate": {"custom_model_data": 10100}, "model": "galaxy:item/tool/wrench"}
-		
-	]
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stick"
+  },
+  "overrides": [
+    
+    { "predicate": {"custom_model_data": 10100}, "model": "galaxy:item/tool/wrench"}
+    
+  ]
 }
