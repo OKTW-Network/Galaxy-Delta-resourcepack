@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Clean up
-        run: rm -r .circleci .github
+        run: rm -rf .git .circleci .github
 
       - name: Zip and Upload
         uses: actions/upload-artifact@v2.2.4
