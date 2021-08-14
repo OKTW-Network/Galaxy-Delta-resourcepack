@@ -17,17 +17,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Zip the resourcepack
-        run: zip -r resourcepack.zip ./*
-        
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          mkdir packed/
-          mv resourcepack.zip packed/
+      - name: Clean up
+        run: rm -r .circleci .github
 
-      - name: Upload a Build Artifact
+      - name: Zip and Upload
         uses: actions/upload-artifact@v2.2.4
         with:
-          path: "packed/"
+          name: "resourcePack"
+          path: "."
