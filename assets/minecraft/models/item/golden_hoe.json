@@ -27,6 +27,7 @@
     { "predicate": {"custom_model_data": 10119}, "model": "galaxy:gui/icon/shock"},
     { "predicate": {"custom_model_data": 10120}, "model": "galaxy:gui/icon/back_left"},
     { "predicate": {"custom_model_data": 10121}, "model": "galaxy:gui/icon/back_right"},
+    { "predicate": {"custom_model_data": 10122}, "model": "galaxy:gui/icon/penetrate"},
         
     { "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/icon/katana-exhibition"},
     { "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/icon/katana-display"},
