@@ -1,0 +1,6 @@
+{
+    "parent": "galaxy:gui/cover/_template-3x9_qtl",
+    "textures": {
+        "cover": "galaxy:gui/cover_advanced_num_select"
+    }
+}

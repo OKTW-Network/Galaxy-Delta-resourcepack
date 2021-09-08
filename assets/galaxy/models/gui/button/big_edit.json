@@ -1,0 +1,6 @@
+{
+    "parent": "galaxy:gui/button/_template-normal_big",
+    "textures": {
+        "icon": "galaxy:gui/icon_pen_big"
+    }
+}

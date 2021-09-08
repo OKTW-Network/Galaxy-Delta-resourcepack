@@ -28,6 +28,8 @@
     { "predicate": {"custom_model_data": 10501}, "model": "galaxy:gui/cover/3x3_builder_addon_gun_2"},
     { "predicate": {"custom_model_data": 10502}, "model": "galaxy:gui/cover/3x3_builder_addon_gun_3"},
     { "predicate": {"custom_model_data": 10503}, "model": "galaxy:gui/cover/3x3_builder_addon_gun_4"},
+    { "predicate": {"custom_model_data": 10600}, "model": "galaxy:gui/cover/3x4_num_select"},
+    { "predicate": {"custom_model_data": 10601}, "model": "galaxy:gui/cover/3x9_advanced_num_select"},
         
     { "predicate": {"custom_model_data": 20100}, "model": "galaxy:gui/cover/3x1_c"},
     { "predicate": {"custom_model_data": 20101}, "model": "galaxy:gui/cover/2x1_c_up"},
@@ -43,6 +45,8 @@
     { "predicate": {"custom_model_data": 20111}, "model": "galaxy:gui/cover/4x1_c_down"},
     { "predicate": {"custom_model_data": 20112}, "model": "galaxy:gui/cover/1x4_c_left"},
     { "predicate": {"custom_model_data": 20113}, "model": "galaxy:gui/cover/1x4_c_right"},
+    { "predicate": {"custom_model_data": 20114}, "model": "galaxy:gui/cover/3x4_3x3_c_qtl"},
+    { "predicate": {"custom_model_data": 20115}, "model": "galaxy:gui/cover/3x4_3x3_c_qbr"},
     { "predicate": {"custom_model_data": 20200}, "model": "galaxy:gui/cover/3x2_c_selector_left"},
     { "predicate": {"custom_model_data": 20201}, "model": "galaxy:gui/cover/3x2_c_selector_right"},
     { "predicate": {"custom_model_data": 20300}, "model": "galaxy:gui/cover/3x1_c_arrow_left"},

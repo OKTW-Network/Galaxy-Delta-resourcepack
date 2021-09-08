@@ -79,6 +79,24 @@
       }
     ]
   },
+  "katana.draw_ready.self": {
+    "sounds": [
+      {
+        "name": "galaxy:katana/draw_ready-self",
+        "volume": 0.5,
+        "pitch": 1.1
+      }
+    ]
+  },
+  "katana.draw_ready": {
+    "sounds": [
+      {
+        "name": "galaxy:katana/draw_ready",
+        "volume": 0.75,
+        "pitch": 1.1
+      }
+    ]
+  },
   "katana.soop.self": {
     "sounds": [
       {

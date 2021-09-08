@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+    
+        { "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"},
+
+        { "predicate": {"custom_model_data": 10131}, "model": "galaxy:gui/icon/num_0"},
+        { "predicate": {"custom_model_data": 10132}, "model": "galaxy:gui/icon/num_1"},
+        { "predicate": {"custom_model_data": 10133}, "model": "galaxy:gui/icon/num_2"},
+        { "predicate": {"custom_model_data": 10134}, "model": "galaxy:gui/icon/num_3"},
+        { "predicate": {"custom_model_data": 10135}, "model": "galaxy:gui/icon/num_4"},
+        { "predicate": {"custom_model_data": 10136}, "model": "galaxy:gui/icon/num_5"},
+        { "predicate": {"custom_model_data": 10137}, "model": "galaxy:gui/icon/num_6"},
+        { "predicate": {"custom_model_data": 10138}, "model": "galaxy:gui/icon/num_7"},
+        { "predicate": {"custom_model_data": 10139}, "model": "galaxy:gui/icon/num_8"},
+        { "predicate": {"custom_model_data": 10140}, "model": "galaxy:gui/icon/num_9"},
+        { "predicate": {"custom_model_data": 10141}, "model": "galaxy:gui/icon/num_none"},
+        { "predicate": {"custom_model_data": 10142}, "model": "galaxy:gui/icon/positive"},
+        { "predicate": {"custom_model_data": 10143}, "model": "galaxy:gui/icon/negative"}
+
+    ]
+}
