@@ -1,9 +1,0 @@
-{
-    "parent": "galaxy:item/weapon/katana/katana-normal_display",
-    "gui_light": "front",
-	"display": {
-		"ground": {
-			"scale": [0, 0, 0]
-		}
-	}
-}

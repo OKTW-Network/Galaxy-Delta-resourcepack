@@ -4,8 +4,6 @@
     "layer0": "item/stick"
   },
   "overrides": [
-    
-    { "predicate": {"custom_model_data": 10100}, "model": "galaxy:item/tool/wrench"}
-    
+    { "predicate": {"custom_model_data": 16777216}, "model": "galaxy:item/tool/wrench"}
   ]
 }

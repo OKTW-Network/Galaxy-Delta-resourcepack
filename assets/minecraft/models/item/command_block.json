@@ -1,11 +1,9 @@
 {
   "parent": "block/command_block",
   "overrides": [
-    
-    { "predicate": {"custom_model_data": 1010}, "model": "galaxy:item/material/steel_ingot"},
-    { "predicate": {"custom_model_data": 1020}, "model": "galaxy:item/material/coke"},
-    
-    { "predicate": {"custom_model_data": 10010}, "model": "galaxy:effect/magic_circle"}
-    
+    { "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"},
+
+    { "predicate": {"custom_model_data": 101000}, "model": "galaxy:item/material/coke"},
+    { "predicate": {"custom_model_data": 102000}, "model": "galaxy:item/material/steel_ingot"}
   ]
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "galaxy:gui/assembly_table_parts-upgrade"
+  }
+}

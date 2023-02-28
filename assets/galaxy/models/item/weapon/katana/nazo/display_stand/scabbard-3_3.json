@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench, model design by OKTW team",
+    "parent": "galaxy:item/weapon/katana/nazo/scabbard",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 107, -90],
+			"translation": [-0.875, -2, -3.075],
+			"scale": [2.75, 2.75, 2.75]
+		}
+	}
+}

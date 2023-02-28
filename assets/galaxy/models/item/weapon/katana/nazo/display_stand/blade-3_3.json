@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench, model design by OKTW team",
+    "parent": "galaxy:item/weapon/katana/nazo/blade",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 107, -90],
+			"translation": [-5.125, -2, 10.825],
+			"scale": [2.75, 2.75, 2.75]
+		}
+	}
+}

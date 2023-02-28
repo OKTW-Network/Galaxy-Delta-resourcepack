@@ -4,26 +4,23 @@
     "layer0": "minecraft:item/item_frame"
   },
   "overrides": [
-    
     { "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"},
-        
-    { "predicate": {"custom_model_data": 10100}, "model": "galaxy:block/ht_ct"},
-    { "predicate": {"custom_model_data": 10200}, "model": "galaxy:block/coke_furnace"},
-    { "predicate": {"custom_model_data": 10201}, "model": "galaxy:block/coke_furnace_smelting"},
-    { "predicate": {"custom_model_data": 10300}, "model": "galaxy:block/advanced_blast_furnace"},
-    { "predicate": {"custom_model_data": 10301}, "model": "galaxy:block/advanced_blast_furnace_smelting"},
-    { "predicate": {"custom_model_data": 10400}, "model": "galaxy:block/assembly_table"},
-    { "predicate": {"custom_model_data": 10401}, "model": "galaxy:block/super_assembler"},
-    { "predicate": {"custom_model_data": 10500}, "model": "galaxy:block/elevator"},
+
+    { "predicate": {"custom_model_data": 101000}, "model": "galaxy:block/ht_ct"},
+    { "predicate": {"custom_model_data": 102000}, "model": "galaxy:block/coke_furnace"},
+    { "predicate": {"custom_model_data": 102001}, "model": "galaxy:block/coke_furnace_smelting"},
+    { "predicate": {"custom_model_data": 103000}, "model": "galaxy:block/advanced_blast_furnace"},
+    { "predicate": {"custom_model_data": 103001}, "model": "galaxy:block/advanced_blast_furnace_smelting"},
+    { "predicate": {"custom_model_data": 104000}, "model": "galaxy:block/assembly_table"},
+    { "predicate": {"custom_model_data": 105000}, "model": "galaxy:block/elevator"},
     
-    { "predicate": {"custom_model_data": 20100}, "model": "galaxy:entity/katana_showcase-1"},
-    { "predicate": {"custom_model_data": 20101}, "model": "galaxy:entity/katana_showcase-2"},
-    { "predicate": {"custom_model_data": 20102}, "model": "galaxy:entity/katana_showcase-3"},
-    { "predicate": {"custom_model_data": 20103}, "model": "galaxy:entity/katana_showcase-4"},
-        
-    { "predicate": {"custom_model_data": 30100}, "model": "galaxy:item/tool/wrench"},
-    { "predicate": {"custom_model_data": 30200}, "model": "galaxy:item/tool/crowbar"},
-    { "predicate": {"custom_model_data": 30300}, "model": "galaxy:item/tool/structure_empower"}
-    
+    { "predicate": {"custom_model_data": 201000}, "model": "galaxy:entity/katana_showcase-1"},
+    { "predicate": {"custom_model_data": 201001}, "model": "galaxy:entity/katana_showcase-2"},
+    { "predicate": {"custom_model_data": 201002}, "model": "galaxy:entity/katana_showcase-3"},
+    { "predicate": {"custom_model_data": 201003}, "model": "galaxy:entity/katana_showcase-4"},
+
+    { "predicate": {"custom_model_data": 301000}, "model": "galaxy:item/tool/wrench"},
+    { "predicate": {"custom_model_data": 302000}, "model": "galaxy:item/tool/crowbar"},
+    { "predicate": {"custom_model_data": 303000}, "model": "galaxy:item/tool/structure_empower"}
   ]
 }

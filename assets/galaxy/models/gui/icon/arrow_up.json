@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "galaxy:gui/icon_arrow_up"
     }
