@@ -14,6 +14,9 @@ jobs:
       - run:
           name: Create pack folder
           command: mv resourcepack.zip packed/
+      - run:
+          name: Calculate sha1 checksum
+          command: sha1sum packed/resourcepack.zip
       - store_artifacts:
           path: packed/
           destination: .
