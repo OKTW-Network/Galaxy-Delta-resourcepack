@@ -6,7 +6,7 @@
   "overrides": [
     { "predicate": {"custom_model_data": 100}, "model": "galaxy:blank"},
 
-    { "predicate": {"custom_model_data": 101000}, "model": "galaxy:block/ht_ct"},
+    { "predicate": {"custom_model_data": 101000}, "model": "galaxy:block/hi_tech_crafting_table"},
     { "predicate": {"custom_model_data": 102000}, "model": "galaxy:block/coke_furnace"},
     { "predicate": {"custom_model_data": 102001}, "model": "galaxy:block/coke_furnace_smelting"},
     { "predicate": {"custom_model_data": 103000}, "model": "galaxy:block/advanced_blast_furnace"},

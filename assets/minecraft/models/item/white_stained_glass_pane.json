@@ -24,7 +24,7 @@
     { "predicate": {"custom_model_data": 103003}, "model": "galaxy:gui/cover/3x2_c_selector_right"},
     { "predicate": {"custom_model_data": 103004}, "model": "galaxy:gui/cover/3x1_c_arrow_left"},
     { "predicate": {"custom_model_data": 103005}, "model": "galaxy:gui/cover/3x1_c_arrow_right"},
-    { "predicate": {"custom_model_data": 103006}, "model": "galaxy:gui/cover/3x2_htct_category_list"},
+    { "predicate": {"custom_model_data": 103006}, "model": "galaxy:gui/cover/3x2_hi_tech_crafting_table_category_list"},
         
     { "predicate": {"custom_model_data": 104000}, "model": "galaxy:gui/cover/3x1_c"},
     { "predicate": {"custom_model_data": 104001}, "model": "galaxy:gui/cover/2x1_c_up"},
