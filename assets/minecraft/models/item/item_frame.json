@@ -8,9 +8,9 @@
 
     { "predicate": {"custom_model_data": 101000}, "model": "galaxy:block/hi_tech_crafting_table"},
     { "predicate": {"custom_model_data": 102000}, "model": "galaxy:block/coke_furnace"},
-    { "predicate": {"custom_model_data": 102001}, "model": "galaxy:block/coke_furnace_smelting"},
-    { "predicate": {"custom_model_data": 103000}, "model": "galaxy:block/advanced_blast_furnace"},
-    { "predicate": {"custom_model_data": 103001}, "model": "galaxy:block/advanced_blast_furnace_smelting"},
+    { "predicate": {"custom_model_data": 102001}, "model": "galaxy:block/coke_furnace_on"},
+    { "predicate": {"custom_model_data": 103000}, "model": "galaxy:block/reinforced_blast_furnace"},
+    { "predicate": {"custom_model_data": 103001}, "model": "galaxy:block/reinforced_blast_furnace_on"},
     { "predicate": {"custom_model_data": 104000}, "model": "galaxy:block/assembly_table"},
     { "predicate": {"custom_model_data": 105000}, "model": "galaxy:block/elevator"},
     

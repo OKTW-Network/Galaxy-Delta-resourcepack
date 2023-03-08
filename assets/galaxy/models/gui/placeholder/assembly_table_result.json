@@ -1,6 +1,69 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "galaxy:gui/assembly_table_result"
-  }
+	"credit": "Made with Blockbench, model design by OKTW team",
+	"textures": {
+		"cover": "galaxy:universal/gui_colors"
+	},
+	"elements": [
+		{
+			"from": [-4.94975, 0, 6.36396],
+			"to": [0.53553, 0.25, 9.36396],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"up": {"uv": [3.25, 0.25, 3.75, 0.75], "rotation": 270, "texture": "#cover"}
+			}
+		},
+		{
+			"from": [6.36396, 0, -4.94975],
+			"to": [11.84924, 0.25, -1.94975],
+			"rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"up": {"uv": [3.25, 0.25, 3.75, 0.75], "rotation": 270, "texture": "#cover"}
+			}
+		},
+		{
+			"from": [13.26346, 0, -4.94975],
+			"to": [16.26346, 0.25, 0.53553],
+			"rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"up": {"uv": [3.25, 0.25, 3.75, 0.75], "texture": "#cover"}
+			}
+		},
+		{
+			"from": [10.77818, 0, 1.94975],
+			"to": [16.26346, 0.25, 4.94975],
+			"rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"up": {"uv": [3.25, 0.25, 3.75, 0.75], "rotation": 90, "texture": "#cover"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -10],
+			"scale": [1, 0.5, 1]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
 }

@@ -1,0 +1,12 @@
+{
+	"parent": "galaxy:block/_template_armorstand",
+	"textures": {
+		"north": "galaxy:block/reinforced_blast_furnace_front",
+		"east": "galaxy:block/reinforced_blast_furnace_side",
+		"south": "galaxy:block/reinforced_blast_furnace_side",
+		"west": "galaxy:block/reinforced_blast_furnace_side",
+		"up": "galaxy:block/reinforced_blast_furnace_top",
+		"down": "galaxy:block/reinforced_blast_furnace_top",
+		"particle": "galaxy:block/reinforced_blast_furnace_top"
+	}
+}
