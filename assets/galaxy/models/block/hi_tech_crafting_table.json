@@ -1,12 +1,9 @@
 {
-	"parent": "galaxy:block/_template_armorstand",
-	"textures": {
-		"north": "galaxy:block/hi_tech_crafting_table_side",
-		"east": "galaxy:block/hi_tech_crafting_table_side",
-		"south": "galaxy:block/hi_tech_crafting_table_side",
-		"west": "galaxy:block/hi_tech_crafting_table_side",
-		"up": "galaxy:block/hi_tech_crafting_table_top",
-		"down": "galaxy:block/hi_tech_crafting_table_bottom",
-		"particle": "galaxy:block/hi_tech_crafting_table_top"
-	}
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "galaxy:block/hi_tech_crafting_table_top",
+    "bottom": "galaxy:block/hi_tech_crafting_table_bottom",
+    "side": "galaxy:block/hi_tech_crafting_table_side",
+    "particle": "#top"
+  }
 }

@@ -1,12 +1,9 @@
 {
-	"parent": "galaxy:block/_template_armorstand",
-	"textures": {
-		"north": "galaxy:block/assembling_station_side",
-		"east": "galaxy:block/assembling_station_side",
-		"south": "galaxy:block/assembling_station_side",
-		"west": "galaxy:block/assembling_station_side",
-		"up": "galaxy:block/assembling_station_top",
-		"down": "galaxy:block/assembling_station_bottom",
-		"particle": "galaxy:block/assembling_station_top"
-	}
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "galaxy:block/assembly_table_top",
+    "bottom": "galaxy:block/assembly_table_bottom",
+    "side": "galaxy:block/assembly_table_side",
+    "particle": "#top"
+  }
 }

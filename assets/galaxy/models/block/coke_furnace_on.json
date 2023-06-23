@@ -1,12 +1,8 @@
 {
-	"parent": "galaxy:block/_template_armorstand",
-	"textures": {
-		"north": "galaxy:block/coke_furnace_front_on",
-		"east": "galaxy:block/coke_furnace_side",
-		"south": "galaxy:block/coke_furnace_side",
-		"west": "galaxy:block/coke_furnace_side",
-		"up": "galaxy:block/coke_furnace_top",
-		"down": "galaxy:block/coke_furnace_top",
-		"particle": "galaxy:block/coke_furnace_top"
-	}
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "galaxy:block/coke_furnace_top",
+    "front": "galaxy:block/coke_furnace_front_on",
+    "side": "galaxy:block/coke_furnace_side"
+  }
 }

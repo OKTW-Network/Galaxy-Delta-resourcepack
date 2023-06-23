@@ -119,9 +119,9 @@
     { "predicate": {"custom_model_data": 202000}, "model": "galaxy:item/weapon/gun/sniper"},
     { "predicate": {"custom_model_data": 202001}, "model": "galaxy:item/weapon/gun/sniper_aim"},
     { "predicate": {"custom_model_data": 202009}, "model": "galaxy:item/weapon/gun/sniper_holstered"},
-    { "predicate": {"custom_model_data": 202100}, "model": "galaxy:item/weapon/gun/railgun"},
-    { "predicate": {"custom_model_data": 202101}, "model": "galaxy:item/weapon/gun/railgun_aim"},
-    { "predicate": {"custom_model_data": 202109}, "model": "galaxy:item/weapon/gun/railgun_holstered"},
+    { "predicate": {"custom_model_data": 203000}, "model": "galaxy:item/weapon/gun/railgun"},
+    { "predicate": {"custom_model_data": 203001}, "model": "galaxy:item/weapon/gun/railgun_aim"},
+    { "predicate": {"custom_model_data": 203009}, "model": "galaxy:item/weapon/gun/railgun_holstered"},
 
     { "predicate": {"custom_model_data": 301000}, "model": "galaxy:item/weapon/energy_saber/plasum/gui"},
     { "predicate": {"custom_model_data": 301010}, "model": "galaxy:item/weapon/energy_saber/plasum/off"},

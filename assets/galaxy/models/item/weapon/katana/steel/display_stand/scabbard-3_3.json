@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
-    "parent": "galaxy:item/weapon/katana/steel/scabbard",
+	"parent": "galaxy:item/weapon/katana/steel/scabbard",
 	"display": {
-		"thirdperson_righthand": {
-			"rotation": [180, 107, -90],
-			"translation": [-0.875, -2, -3.075],
-			"scale": [2.75, 2.75, 2.75]
+		"fixed": {
+			"rotation": [-90, -73, -90],
+			"translation": [-2.55, -3.45, 0],
+			"scale": [1.35, 1.35, 1.35]
 		}
 	}
 }
