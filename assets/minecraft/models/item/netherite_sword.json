@@ -60,7 +60,6 @@
     { "predicate": {"custom_model_data": 101423}, "model": "galaxy:item/weapon/katana/steel/display_stand/scabbard-4_4"},
 
     { "predicate": {"custom_model_data": 102000}, "model": "galaxy:item/weapon/katana/nazo/gui"},
-    { "predicate": {"custom_model_data": 102001}, "model": "galaxy:item/weapon/katana/nazo/exhibition"},
     { "predicate": {"custom_model_data": 102010}, "model": "galaxy:item/weapon/katana/nazo/katana"},
     { "predicate": {"custom_model_data": 102011}, "model": "galaxy:item/weapon/katana/nazo/blade"},
     { "predicate": {"custom_model_data": 102012}, "model": "galaxy:item/weapon/katana/nazo/scabbard"},
@@ -123,11 +122,9 @@
     { "predicate": {"custom_model_data": 202101}, "model": "galaxy:item/weapon/gun/railgun_aim"},
     { "predicate": {"custom_model_data": 202109}, "model": "galaxy:item/weapon/gun/railgun_holstered"},
 
-    { "predicate": {"custom_model_data": 301000}, "model": "galaxy:item/weapon/energy_saber/plasum/gui"},
     { "predicate": {"custom_model_data": 301010}, "model": "galaxy:item/weapon/energy_saber/plasum/off"},
     { "predicate": {"custom_model_data": 301011}, "model": "galaxy:item/weapon/energy_saber/plasum/on"},
 
-    { "predicate": {"custom_model_data": 302000}, "model": "galaxy:item/weapon/energy_saber/ranbo/gui"},
     { "predicate": {"custom_model_data": 302010}, "model": "galaxy:item/weapon/energy_saber/ranbo/off"},
     { "predicate": {"custom_model_data": 302011}, "model": "galaxy:item/weapon/energy_saber/ranbo/on"}
   ]
