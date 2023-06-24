@@ -12,7 +12,7 @@
     },
     {
       "type": "directory",
-      "source": "gui",
+      "source": "fake_gui",
       "prefix": "gui/"
     }
   ]
