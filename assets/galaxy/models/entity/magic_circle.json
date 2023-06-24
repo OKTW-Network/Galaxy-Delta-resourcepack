@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, model design by OKTW team",
     "gui_light": "front",
 	"textures": {
-		"0": "galaxy:effect/magic_circle",
-		"particle": "galaxy:effect/magic_circle"
+		"0": "galaxy:entity/magic_circle",
+		"particle": "galaxy:entity/magic_circle"
 	},
 	"elements": [
 		{
