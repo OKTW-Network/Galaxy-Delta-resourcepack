@@ -1,0 +1,84 @@
+{
+	"credit": "Made with Blockbench, model design by OKTW team",
+	"textures": {
+		"0": "galaxy:gui/button_unclickable",
+		"particle": "galaxy:gui/button_unclickable",
+		"colors": "galaxy:universal/gui_colors"
+	},
+	"elements": [
+		{
+			"name": "background",
+			"from": [0, 0, 0],
+			"to": [16, 0.25, 16],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 0.5], "texture": "#0"},
+				"east": {"uv": [15.5, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 15.5, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.46447, 0, 4.46447],
+			"to": [9.53554, 0.3, 6.46446],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [15.25, 3.25, 15.75, 3.75], "texture": "#colors"}
+			}
+		},
+		{
+			"from": [9.53554, 0, 4.46447],
+			"to": [11.53553, 0.3, 9.53554],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [15.25, 3.25, 15.75, 3.75], "texture": "#colors"}
+			}
+		},
+		{
+			"from": [6.46446, 0, 9.53554],
+			"to": [11.53553, 0.3, 11.53553],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [15.25, 3.25, 15.75, 3.75], "texture": "#colors"}
+			}
+		},
+		{
+			"from": [4.46447, 0, 6.46446],
+			"to": [6.46446, 0.3, 11.53553],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [15.25, 3.25, 15.75, 3.75], "texture": "#colors"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -5],
+			"scale": [1, 0.5, 1]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

@@ -16,6 +16,7 @@
     { "predicate": {"custom_model_data": 101007}, "model": "galaxy:gui/button/arrow_down"},
     { "predicate": {"custom_model_data": 101008}, "model": "galaxy:gui/button/arrow_left"},
     { "predicate": {"custom_model_data": 101009}, "model": "galaxy:gui/button/arrow_right"},
+    { "predicate": {"custom_model_data": 101010}, "model": "galaxy:gui/button/all"},
     { "predicate": {"custom_model_data": 101100}, "model": "galaxy:gui/button/big_edit"},
     { "predicate": {"custom_model_data": 102000}, "model": "galaxy:gui/button/unclickable_arrow_head_up"},
     { "predicate": {"custom_model_data": 102001}, "model": "galaxy:gui/button/unclickable_arrow_head_down"},
@@ -27,6 +28,7 @@
     { "predicate": {"custom_model_data": 102007}, "model": "galaxy:gui/button/unclickable_arrow_down"},
     { "predicate": {"custom_model_data": 102008}, "model": "galaxy:gui/button/unclickable_arrow_left"},
     { "predicate": {"custom_model_data": 102009}, "model": "galaxy:gui/button/unclickable_arrow_right"},
+    { "predicate": {"custom_model_data": 102010}, "model": "galaxy:gui/button/unclickable_all"},
 
     { "predicate": {"custom_model_data": 201000}, "model": "galaxy:gui/icon/info"},
     { "predicate": {"custom_model_data": 201001}, "model": "galaxy:gui/icon/i_o"},
@@ -73,6 +75,7 @@
     { "predicate": {"custom_model_data": 201042}, "model": "galaxy:gui/icon/positive"},
     { "predicate": {"custom_model_data": 201043}, "model": "galaxy:gui/icon/negative"},
     { "predicate": {"custom_model_data": 201044}, "model": "galaxy:gui/icon/temperature_min"},
+    { "predicate": {"custom_model_data": 201045}, "model": "galaxy:gui/icon/all"},
     { "predicate": {"custom_model_data": 202000}, "model": "galaxy:item/weapon/katana/steel/exhibition"},
 
     { "predicate": {"custom_model_data": 301000}, "model": "galaxy:gui/placeholder/assembly_table_result"},
