@@ -117,6 +117,9 @@
 
   "recipe.requirement.accept_any_type": "Accept any types",
 
+  "book.tooltip.click_event.refresh_content": "(click to refresh contents)",
+  "book.tooltip.click_event.open_link": "(click to open the link)",
+
   "attribute.name.galaxy.generic.mode": "Mode",
   "attribute.name.galaxy.generic.type": "Type",
   "attribute.name.galaxy.generic.type_limited": "Type Limited",

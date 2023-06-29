@@ -117,6 +117,9 @@
 
   "recipe.requirement.accept_any_type": "接受任何類型",
 
+  "book.tooltip.click_event.refresh_content": "\uff08點擊以更新內容\uff09",
+  "book.tooltip.click_event.open_link": "\uff08點擊以開啟連結\uff09",
+
   "attribute.name.galaxy.generic.mode": "模式",
   "attribute.name.galaxy.generic.type": "類型",
   "attribute.name.galaxy.generic.type_limited": "類型限制",
