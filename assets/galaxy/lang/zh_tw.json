@@ -167,6 +167,11 @@
   "color.galaxy.default": "預設",
   "color.galaxy.rainbow": "虹彩",
 
+  "death.attack.galaxy.gun_bullet": "%1$s 被 %2$s 射殺了",
+  "death.attack.galaxy.gun_bullet.item": "%1$s 被 %2$s 用 %3$s 射殺",
+  "death.attack.galaxy.katana_action": "%1$s 被 %2$s 殺死了",
+  "death.attack.galaxy.katana_action.item": "%1$s 被 %2$s 用 %3$s 殺死",
+
   "subtitles.item.katana.draw": "侍刀出鞘",
   "subtitles.item.katana.store": "侍刀入鞘",
 

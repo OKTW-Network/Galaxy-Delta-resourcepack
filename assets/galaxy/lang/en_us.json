@@ -167,6 +167,11 @@
   "color.galaxy.default": "Default",
   "color.galaxy.rainbow": "Rainbow",
 
+  "death.attack.galaxy.gun_bullet": "%1$s was shot by %2$s",
+  "death.attack.galaxy.gun_bullet.item": "%1$s was shot by %2$s using %3$s",
+  "death.attack.galaxy.katana_action": "%1$s was slain by %2$s",
+  "death.attack.galaxy.katana_action.item": "%1$s was slain by %2$s using %3$s",
+
   "subtitles.item.katana.draw": "Katana draw",
   "subtitles.item.katana.store": "Katana store",
 
