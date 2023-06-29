@@ -1,7 +1,7 @@
 {
 	"parent": "galaxy:gui/cover/_template-3x3_qbr",
 	"textures": {
-		"cover": "galaxy:gui/cover_hi_tech_crafting_table_category_list"
+		"cover": "galaxy:gui/cover_hi_tech_crafting_table_category_foreground"
 	},
 	"display": {
 		"gui": {
