@@ -42,6 +42,7 @@
     { "predicate": {"custom_model_data": 104013}, "model": "galaxy:gui/cover/1x4_c_right"},
     { "predicate": {"custom_model_data": 104014}, "model": "galaxy:gui/cover/3x4_3x3_c_qtl"},
     { "predicate": {"custom_model_data": 104015}, "model": "galaxy:gui/cover/3x4_3x3_c_qbr"},
+    { "predicate": {"custom_model_data": 104016}, "model": "galaxy:gui/cover/1x3_c"},
 
     { "predicate": {"custom_model_data": 201000}, "model": "galaxy:gui/cover/1x2_progress-0"},
     { "predicate": {"custom_model_data": 201001}, "model": "galaxy:gui/cover/1x2_progress-1"},
